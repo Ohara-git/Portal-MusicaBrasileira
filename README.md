@@ -1,2 +1,2 @@
 # Portal-MusicaBrasileira
- Portal desenvolvido para o Proejto integrador do 2 semestre 
+ Portal desenvolvido para o Projeto integrador do 2 semestre 
