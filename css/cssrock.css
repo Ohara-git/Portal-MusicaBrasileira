@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+article,
+section {
+    padding-bottom: 15px;
+}
+
+.positionbutton {
+    object-position: center;
+}
+
+.espacopadding {
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
