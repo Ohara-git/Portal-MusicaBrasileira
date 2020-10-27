@@ -2,13 +2,15 @@ h1 {
     text-align: center;
 }
 
-article,
-section {
-    padding-bottom: 15px;
+p {
+    text-align: justify;
 }
 
-.positionbutton {
-    object-position: center;
+article,
+section,
+p {
+    padding-top: 15px;
+    padding-bottom: 25px;
 }
 
 .espacopadding {
