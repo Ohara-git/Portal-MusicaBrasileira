@@ -105,7 +105,7 @@
 
         <div class="row">
             <section class="col-12 col-md-12 col-sm-12">
-                <button><a href="rock-secondary.html"> Mais</a></button>
+                <button><a href="rock-secondary.php"> Mais</a></button>
             </section>
         </div>
 
