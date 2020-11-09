@@ -20,11 +20,7 @@
 
 <body>
     <div class="container">
-<<<<<<< HEAD:rock-secondary.php
     <?php
-=======
-            <?php
->>>>>>> upstream/master:rock-secondary.html
             include 'includes/nav.php';
             ?>
 

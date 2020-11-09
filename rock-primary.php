@@ -22,10 +22,7 @@
         <?php
             include 'includes/nav.php';
             ?>
-<<<<<<< HEAD:rock-primary.php
                   
-=======
->>>>>>> upstream/master:rock-primary.html
        
         <div class="row">
             <header class="col-lg-12 col-md-12 col-sm-12">
