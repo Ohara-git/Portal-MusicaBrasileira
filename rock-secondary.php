@@ -20,58 +20,20 @@
 
 <body>
     <div class="container">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="#">
-                <img src="images/Pequena.jpg" alt="" width="50px" height="50px">
-                Musica brasileira
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ChamaOEsau"
-                aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="ChamaOEsau">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estilos</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown01">
-                            <a class="dropdown-item" href="axe-primary.html">Axé</a>
-                            <a class="dropdown-item" href="forro-primary.html">Forró</a>
-                            <a class="dropdown-item" href="rock-primary.html">Rock</a>
-                            <a class="dropdown-item" href="mpb-primary.html">Mpb</a>
-                            <a class="dropdown-item" href="samba-primary.html">Samba</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="quem-somos.html" tabindex="-1" aria-disabled="true">Quem somos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="normas.html" tabindex="-1" aria-disabled="true">Normas de uso</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contato.html" tabindex="-1" aria-disabled="true">Contato</a>
-                    </li>
-                </ul>
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="text" placeholder="Pesquise" aria-label="Search">
-                    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Pesquisar</button>
-                </form>
-            </div>
-        </nav>
+            <?php
+            include 'includes/nav.php';
+            ?>
 
 
         <div class="row">
             <header class="col-lg-12 col-md-12 col-sm-12">
-                <img src="images/no_img.jpg" height="238" width="1400" class="img-fluid" />
+                <img src="images/no_img.jpg" width="100%" height="300" />
             </header>
         </div>
         <div class="row">
             <article class="col-lg-12 col-md-12 col-sm-12">
                 <h1 class="display-3">Article</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                <p>a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
                     Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate
@@ -86,7 +48,7 @@
                 <div class="row">
 
                     <section class="col-lg-6 col-md-6 col-sm-12 ">
-                        <img src="images/no_img.jpg" width="520" class="img-fluid" />
+                        <img src="images/legiaourbana.jfif" height="300" width="540" class="img-fluid" />
                     </section>
                     <section class="col-lg-6 col-md-6 col-sm-12 d-none d-lg-block ">
                         <img src="images/no_img.jpg" height="300" width="540" class="img-fluid" />
