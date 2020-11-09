@@ -22,7 +22,10 @@
         <?php
             include 'includes/nav.php';
             ?>
+<<<<<<< HEAD:rock-primary.php
                   
+=======
+>>>>>>> upstream/master:rock-primary.html
        
         <div class="row">
             <header class="col-lg-12 col-md-12 col-sm-12">
@@ -106,7 +109,7 @@
 
         <div class="row">
             <section class="col-12 col-md-12 col-sm-12">
-                <button><a href="rock-secondary.html"> Mais</a></button>
+                <button><a href="rock-secondary.php"> Mais</a></button>
             </section>
         </div>
 
