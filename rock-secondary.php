@@ -33,7 +33,7 @@
         <div class="row">
             <article class="col-lg-12 col-md-12 col-sm-12">
                 <h1 class="display-3">Article</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                <p>a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
                     Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate
