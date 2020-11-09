@@ -22,6 +22,7 @@
         <?php
             include 'includes/nav.php';
             ?>
+                  
        
         <div class="row">
             <header class="col-lg-12 col-md-12 col-sm-12">

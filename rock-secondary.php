@@ -20,7 +20,7 @@
 
 <body>
     <div class="container">
-            <?php
+    <?php
             include 'includes/nav.php';
             ?>
 
