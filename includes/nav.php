@@ -11,26 +11,26 @@
             <div class="collapse navbar-collapse" id="ChamaOEsau">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estilos</a>
                         <div class="dropdown-menu" aria-labelledby="dropdown01">
-                            <a class="dropdown-item" href="axe-primary.html">Axé</a>
-                            <a class="dropdown-item" href="forro-primary.html">Forró</a>
-                            <a class="dropdown-item" href="rock-primary.html">Rock</a>
-                            <a class="dropdown-item" href="mpb-primary.html">Mpb</a>
-                            <a class="dropdown-item" href="samba-primary.html">Samba</a>
+                            <a class="dropdown-item" href="axe-primary.php">Axé</a>
+                            <a class="dropdown-item" href="forro-primary.php">Forró</a>
+                            <a class="dropdown-item" href="rock-primary.php">Rock</a>
+                            <a class="dropdown-item" href="mpb-primary.php">Mpb</a>
+                            <a class="dropdown-item" href="samba-primary.php">Samba</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="quem-somos.html" tabindex="-1" aria-disabled="true">Quem somos</a>
+                        <a class="nav-link" href="quem-somos.php" tabindex="-1" aria-disabled="true">Quem somos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="normas.html" tabindex="-1" aria-disabled="true">Normas de uso</a>
+                        <a class="nav-link" href="normas.php" tabindex="-1" aria-disabled="true">Normas de uso</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contato.html" tabindex="-1" aria-disabled="true">Contato</a>
+                        <a class="nav-link" href="contato.php" tabindex="-1" aria-disabled="true">Contato</a>
                     </li>
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
