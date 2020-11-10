@@ -35,3 +35,33 @@ img .forro-primary {
     text-align: center;
     margin-top: 40px;
 }
+
+.botao-vejamais {
+    margin-bottom: 80px;
+}
+.section-inicial{
+    margin-top: 80px;
+}
+.section-variedade{
+    margin-top: 60px;
+}
+
+.playlist{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.button-spotify{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.button-youtube{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.positionbutton {
+    margin-top: 60px;
+    margin-bottom: 80px;
+}

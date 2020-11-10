@@ -24,46 +24,9 @@
     <div class="container">
         
 
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-              <a class="navbar-brand" href="#">
-                  <img src="images/Pequena.jpg" alt="" width="50px" height="50px">
-                  Musica brasileira
-              </a>
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ChamaOEsau" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-              </button>
-          
-              <div class="collapse navbar-collapse" id="ChamaOEsau">
-                  <ul class="navbar-nav mr-auto">
-                      <li class="nav-item active">
-                          <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estilos</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown01">
-                            <a class="dropdown-item" href="axe-primary.html">Axé</a>
-                            <a class="dropdown-item" href="forro-primary.html">Forró</a>
-                            <a class="dropdown-item" href="rock-primary.html">Rock</a>
-                            <a class="dropdown-item" href="mpb-primary.html">Mpb</a>
-                            <a class="dropdown-item" href="samba-primary.html">Samba</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="quem-somos.html" tabindex="-1" aria-disabled="true">Quem somos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="normas.html" tabindex="-1" aria-disabled="true">Normas de uso</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contato.html" tabindex="-1" aria-disabled="true">Contato</a>
-                    </li>
-                </ul>
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="text" placeholder="Pesquise" aria-label="Search">
-                    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Pesquisar</button>
-                </form>
-              </div>
-          </nav>
+        <?php
+            include 'includes/nav.php';
+        ?>
       
 
           <div class="row">
@@ -72,7 +35,7 @@
             </header>
         </div>
 
-          <div class="row">
+          <div class="row section-inicial">
             <div class="col-md-4 offset-md-1 col-lg-4 offset-lg-0">
               <h1>Principais artistas</h1>
               <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
@@ -85,7 +48,7 @@
           </div>
           
   
-          <section class="row">
+          <section class="row section-artistas">
               <div class="col-md-6 col-lg-6 col-sm-12">
                 <h2>Artista</h2>
                 <img src="images/emConstrucao.jpg" class="img-fluid" alt="">
@@ -99,7 +62,7 @@
              
           </section>
   
-          <section class="row">
+          <section class="row section-artistas">
               <div class="col-md-6 col-lg-6 col-sm-12">
                 <h2>Artista</h2>
                 <img src="images/emConstrucao.jpg" class="img-fluid" alt="">
@@ -112,14 +75,23 @@
               </div>
              
           </section>
-  
-          <section class="row botoes">
-            <div class="col-sm-12 col-md-12 col-lg-12 offset-md-4">
-              <h1>Ouças as Playlists</h1>
-             <button class="spotify">Spotify</button>
-                <button class="youtube">Youtube</button>
-           
-        </section>
+
+            <!-- Playlist -->
+            <div class="container">
+                <section class="row botoes">
+                    <div class="col-sm-6 col-md-6 col-lg-6 offset-md-3 playlist">
+                        <h1>Ouças as Playlists</h1>
+                        <div class="row">
+                            <div class="col-6 button-spotify">
+                                <button class="spotify">Spotify</button>
+                            </div>
+                            <div class="col-6 button-youtube">
+                                <button class="youtube">Youtube</button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
       
         <div class="row botao-voltar">
             <section class="col-12 col-md-12 col-sm-12 positionbutton">
