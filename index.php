@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" />
 
     <!-- O meu vem por último pq estamos reescrevendo as regras dos anteriores -->
-    <link href="/css/meu.css" rel="stylesheet" type="text/css"/>
+    <link href="css/meu.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="css/base.css"/>
     <link rel="stylesheet" href="css/index.css"/>
 </head>

@@ -71,10 +71,10 @@
 
             <section class="col-lg-6 col-md-12 col-sm-12">
                 <img src="images/89fm.jpg" width="100%"  class="img-fluid" />
-                <p> Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
+                <p> oi Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
                     ante, luctus in hendrerit quis, venenatis varius nunc. Aliquam fermentum turpis in consectetur
-                    tincidunt. Aliquam aliquam urna quis tellus egestas ultrices. Phasellus a metus vel diam consequat
+                    tincidunt. Aliquam aliquam urna quis tellus egest454as ultrices. Phasellus a metus vel diam consequat
                     imperdiet. Curabitur a finibus orci. Vivamus lacinia mi vel pellentesque condimentum. Pellentesque
                     sed turpis pellentesque, vestibulum leo quis, egestas ex. Donec fermentum pellentesque pulvinar.
                     Aenean sed mauris ac ante molestie sagittis. Vestibulum condimentum rutrum sapien vel condimentum.
@@ -83,7 +83,7 @@
 
             <section class="col-lg-6 col-md-12 col-sm-12">
                 <div class="row">
-                    <img src="images/kiss-banner.jpg" class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-md-block d-lg-none" />
+                    <img src="images/kiss-banner2.jpg" class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-md-block d-lg-none" />
                     <img src="images/kiss-fm.jpg" width="100%"  class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-lg-block d-sm-block d-md-none" />
                     
                     <p class="col-lg-12 col-md-6 col-sm-12"> Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam
