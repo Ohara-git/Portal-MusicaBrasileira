@@ -1,0 +1,50 @@
+
+
+article {
+    border-top-left-radius: 10px;
+    
+    
+    background-color: #FFAD67;
+
+}
+
+section {
+    background-color: #FFAD67;
+
+}
+
+
+aside {
+    border-top-right-radius: 10px;
+        background-color: #FFAD67;
+    }
+
+.cazuza {
+
+    padding-top: 20px;
+
+}
+
+.maia {
+
+    padding-top: 30px;
+
+}
+
+.rubel {
+
+    padding-bottom: 20px;
+}
+
+.titulo2{
+    background-color: #FFAD67;
+
+}
+
+.body{
+    border-bottom-left-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}

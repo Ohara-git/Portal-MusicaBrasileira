@@ -14,6 +14,8 @@
    
     <link rel="stylesheet" href="css/bootstrap.min.css" />
 
+    <link rel="stylesheet" href="css/MPB.css" />
+
     <link rel="stylesheet" href="css/base.css" />
 
     
@@ -27,7 +29,7 @@
         ?>
         <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
-                <img src="images/no_img.jpg" width="100%" height="300" />
+                <img src="images/header.jpg" width="100%" height="300" />
             </header>
         </div>
         <div class="row">
@@ -37,9 +39,10 @@
             </section>
 
 
-            <section class="col-lg-4 col-md-6 col-sm-12">
-                <img class="img-fluid" src="images/no_img.jpg" width="100%">
-                <h3>artista</h3>
+   
+              <section class="col-lg-4 col-md-6 col-sm-12">
+                <img class="img-fluid" src="images/gil2.jpg" width="100%">
+                <h3>gilberto gil</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
@@ -47,8 +50,8 @@
                     .</p>
             </section>
             <section class="col-lg-4 col-md-6 col-sm-12">
-                <img class="img-fluid" src="images/no_img.jpg" width="100%">
-                <h3>artista</h3>
+                <img class="img-fluid" src="images/tim2.jpg" width="100%">
+                <h3>Tim Maia</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
@@ -57,8 +60,8 @@
 
             </section>
             <section class="col-lg-4 col-md-12 col-sm-12">
-                <img class="img-fluid" src="images/no_img.jpg" width="100%">
-                <h3>artista</h3>
+                <img class="img-fluid" src="images/gal.jpg" width="100%">
+                <h3>Gal Costa</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
@@ -72,8 +75,8 @@
 
 
                 <section class="col-lg-4 col-md-6 col-sm-12">
-                    <img class="img-fluid" src="images/no_img.jpg" width="100%">
-                    <h3>artista</h3>
+                    <img class="img-fluid" src="images/chicobuarque.jpg" width="100%">
+                    <h3>Chico Buarque</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                         accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
                         ex
@@ -83,8 +86,8 @@
                         .</p>
                 </section>
                 <section class="col-lg-4 col-md-6 col-sm-12">
-                    <img class="img-fluid" src="images/no_img.jpg" width="100%">
-                    <h3>artista</h3>
+                    <img class="img-fluid" src="images/rita_lee.jpg" width="100%">
+                    <h3>Rita Lee</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                         accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
                         ex
@@ -95,8 +98,8 @@
 
                 </section>
                 <section class="col-lg-4 col-md-12 col-sm-12">
-                    <img class="img-fluid" src="images/no_img.jpg" width="100%">
-                    <h3>artista</h3>
+                    <img class="img-fluid" src="images/mariagadu.jpg" width="100%">
+                    <h3>Maria Gadu</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                         accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
                         ex
@@ -112,10 +115,10 @@
                 <div class="row">
 
 
-                     <section class="col-lg-12"> <h2>galeria de iamgens </h2></section>
+                     <section class="col-lg-12"> <h2>galeria de imagens </h2></section>
                     <section class="col-lg-4 col-md-4 col-sm-12">
      
-                      <img class="img-fluid" src="images/no_img.jpg" height="100%" width="100%">
+                      <img class="img-fluid" src="images/Ana.jpg" height="100%" width="100%" >
      
                     </section>
      
@@ -123,7 +126,7 @@
                  
                
                     <section class="col-lg-4 col-md-4 col-sm-12">
-                      <img class="img-fluid" src="images/no_img.jpg" height="100%" width="100%">
+                      <img class="img-fluid" src="images/iorc.jpg" height="100%" width="100%">
      
                     </section>
      
@@ -131,7 +134,7 @@
 
                  
                     <section class="col-lg-4 col-md-4 col-sm-12">
-                      <img class="img-fluid" src="images/no_img.jpg" height="100%" width="100%">
+                      <img class="img-fluid" src="images/criolo.jpg" height="100%" width="100%">
      
                     </section>
      
@@ -147,7 +150,7 @@
                   
                    <section class="col-lg-4 col-md-4 col-sm-12">
     
-                     <img class="img-fluid" src="images/no_img.jpg" height="100%" width="100%">
+                     <img class="img-fluid" src="images/djavan.jpg" height="100%" width="100%">
     
                    </section>
     
@@ -155,7 +158,7 @@
                 
               
                    <section class="col-lg-4 col-md-4 col-sm-12">
-                     <img class="img-fluid" src="images/no_img.jpg" height="100%" width="100%">
+                     <img class="img-fluid" src="images/jobim.jpg" height="100%" width="100%">
     
                    </section>
     
@@ -163,7 +166,7 @@
 
                 
                    <section class="col-lg-4 col-md-4 col-sm-12">
-                     <img class="img-fluid" src="images/no_img.jpg" height="100%" width="100%">
+                     <img class="img-fluid" src="images/Lenine.jpg" height="100%" width="100%">
     
                    </section>
     
@@ -174,7 +177,7 @@
                </div>
 
 
-               <section> <button> <a href="mpb-primary.html">voltar </a> </button></section>
+               <section> <button> <a href="mpb-primary.php">voltar </a> </button></section>
 
                </div>
             
