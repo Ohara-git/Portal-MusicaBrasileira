@@ -30,7 +30,7 @@
          
         <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
-                <img src="images/no_img.jpg" width="100%" height="300" />
+                <img src="images/header.jpg" width="100%" height="300" />
             </header>
         </div>
 
@@ -150,7 +150,7 @@
          
     <div class="row">
         <section class="col-12 col-md-12 col-sm-12 positionbutton">
-            <button><a href="samba-primary.html">Voltar</a></button>
+            <button><a href="samba-primary.php">Voltar</a></button>
         </section>
     </div>
 
