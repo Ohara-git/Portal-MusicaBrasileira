@@ -42,7 +42,7 @@
             <h1 class="samba img-fluid samba1">Samba</h1>
 
             <blockquote class="blockquote">
-                <p class="mb-0 img-fluid ">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                <p class="mb-0 img-fluid ">Lorem sei la ipsum dolor sit amet, consectetur adipiscing elit.
                     Praesent in metus congue, elementum velit sed, consequat purus.
                     Pante, luctus in hendrerit quis, venenatis varius nunc</p>
                 <br>
