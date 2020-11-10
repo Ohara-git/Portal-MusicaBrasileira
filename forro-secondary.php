@@ -50,13 +50,13 @@
   
           <section class="row section-artistas">
               <div class="col-md-6 col-lg-6 col-sm-12">
-                <h2>Artista</h2>
-                <img src="images/emConstrucao.jpg" class="img-fluid" alt="">
+                <h2>Luiz Gonzaga</h2>
+                <img src="images/Luiz-Gonzaga.jpg" class="img-fluid img-secondary" alt="" height="150px">
                 <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
               </div>
               <div class="col-md-6 col-lg-6 col-sm-12">
-                  <h2>Artista</h2>
-                <img src="images/emConstrucao.jpg" class="img-fluid" alt="">
+                  <h2>Carmelia Alves</h2>
+                <img src="images/Carmelia-Alves.jpg" class="img-fluid img-secondary" alt="" height="150px">
                 <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
               </div>
              
@@ -64,13 +64,13 @@
   
           <section class="row section-artistas">
               <div class="col-md-6 col-lg-6 col-sm-12">
-                <h2>Artista</h2>
-                <img src="images/emConstrucao.jpg" class="img-fluid" alt="">
+                <h2>Trio-Nordestino</h2>
+                <img src="images/Trio-Nordestino.jpg" class="img-fluid img-secondary" alt="" height="150px">
                 <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
               </div>
               <div class="col-md-6 col-lg-6 col-sm-12">
-                  <h2>Artista</h2>
-                <img src="images/emConstrucao.jpg" class="img-fluid" alt="">
+                  <h2>Elba Ramalho</h2>
+                <img src="images/Elba-Ramalho.jpg" class="img-fluid img-secondary" alt="" height="150px">
                 <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
               </div>
              
