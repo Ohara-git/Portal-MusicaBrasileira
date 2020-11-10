@@ -14,6 +14,7 @@
 
     <!-- O meu vem por último pq estamos reescrevendo as regras dos anteriores -->
     <link href="css/base.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/quemsomos.css" type="text/css"/>
 </head>
 
 <body>
@@ -41,9 +42,9 @@
 
 
         <div class="row">
-            <section class="row col-lg-6 col-md-12 col-sm-12 col-12">
+            <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/no_img.jpg" height="200" width="100%" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/Ale.jpg" class="col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -51,9 +52,9 @@
             </section>
 
 
-            <section class="row col-lg-6 col-md-12 col-sm-12 col-12">
+            <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/no_img.jpg" height="200" width="100%" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/esau.jpg"  class="col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -67,9 +68,9 @@
 
 
         <div class="row">
-            <section class="row col-lg-6 col-md-12 col-sm-12 col-12">
+            <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/no_img.jpg" height="200" width="100%" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/felipe.jpg" class="col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -77,9 +78,9 @@
             </section>
 
 
-            <section class="row col-lg-6 col-md-12 col-sm-12 col-12">
+            <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/no_img.jpg" height="200" width="100%" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/lucas.jpg" class="col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -88,9 +89,9 @@
         </div>
 
         <div class="row">
-            <section class="row col-lg-6 col-md-12 col-sm-12 col-12">
+            <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/no_img.jpg" height="200" width="100%" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/rodrigo.jpg" class="col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -98,19 +99,12 @@
             </section>
 
 
-            <section class="row col-lg-6 col-md-12 col-sm-12 col-12">
-
-                <img src="images/no_img.jpg" height="200" width="100%" class="col-lg-6 col-md-4 col-4" />
-                <p class="col-lg-6 col-md-8 col-8">
-                    Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
-                    vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
-                    ante, luctus in hendrerit quis, venenatis varius nunc</p>
-            </section>
+         
         </div>
 
         <div class="row">
             <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                <button><a href="index.html"> Voltar</a></button>
+                <button><a href="index.php"> Voltar</a></button>
             </section>
         </div>
 
