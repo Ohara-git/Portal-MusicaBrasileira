@@ -65,3 +65,7 @@ img .forro-primary {
     margin-top: 60px;
     margin-bottom: 80px;
 }
+
+.img-secondary{
+    border: dashed 4px purple;
+}
