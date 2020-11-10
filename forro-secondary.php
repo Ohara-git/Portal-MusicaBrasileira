@@ -95,7 +95,7 @@
       
         <div class="row botao-voltar">
             <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                <button><a href="forro-primary.html">Voltar</a></button>
+                <button><a href="forro-primary.php">Voltar</a></button>
             </section>
         </div>
 
