@@ -74,7 +74,7 @@
 
         <div class="row">
             <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                <button><a href="axe-secondary.html">Veja mais</a></button>
+                <button><a href="axe-secondary.php">Veja mais</a></button>
             </section>
         </div>
 
