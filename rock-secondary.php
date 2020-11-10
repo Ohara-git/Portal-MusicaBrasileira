@@ -55,11 +55,10 @@
                     </section>
                     <p class="col-lg-12 col-md-6 col-sm-12 ">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Vestibulum facilisis ornare risus eget
-                        accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
-                        vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                        Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
-                        vulputate eu.
+                        Vestibulum facilisis ornare risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, 
+                        nulla nunc consequat ante, a feugiat sem vitae tellus. In non malesuada velit. Ut hendrerit,
+                        facilisis elit, at pretium massa egestas in Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque,
+                        ac dignissim turpis vulputate eu
                     </p>
                 </div>
                 <h4>Cpm 22</h4>
@@ -213,15 +212,25 @@
             </aside>
         </div>
 
-        <div class="row espacopadding">
-            <p class="col-lg-4 col-md-4 col-sm-4">Ouça</p>
-            <button class="col-lg-4 col-md-4 col-sm-4"><a href="#"> spotify</a></button>
-            <button class="col-lg-4 col-md-4 col-sm-4"><a href="#">youtube</a></button>
-        </div>
+        <div class="container">
+                <section class="row botoes">
+                    <div class="col-sm-6 col-md-6 col-lg-6 offset-md-3 playlist">
+                        <h1>Ouças as Playlists</h1>
+                        <div class="row">
+                            <div class="col-6 button-spotify">
+                                <button class="spotify">Spotify</button>
+                            </div>
+                            <div class="col-6 button-youtube">
+                                <button class="youtube">Youtube</button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
 
 
         
-        <div class="row">
+        <div class="row botao-voltar">
             <section class="col-12 col-md-12 col-sm-12 positionbutton">
                 <button><a href="rock-primary.php">Voltar</a></button>
             </section>

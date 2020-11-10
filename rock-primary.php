@@ -33,7 +33,7 @@
         <div class="row">
             <article class="col-lg-12 col-md-12 col-sm-12">
                 <h1 class="display-5">Rock</h1>
-                <img src="images/rock-nacional.jpeg" width="1000"  class="img-fluid rounded mx-auto d-block" />
+                <img src="images/rock-nacional.jpeg" width="800"  class="img-fluid rounded mx-auto d-block" />
                 <p>
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -50,7 +50,7 @@
         <div class="row">
             
             <section class="col-lg-4 col-md-6 col-sm-12">
-                <img src="images/no_img.jpg" width="100%" height="400" class="img-fluid" />
+                <img src="images/rockinrio.jpeg" width="100%" height="400" class="img-fluid" />
             </section>
             <section class="col-lg-8 col-md-6 col-sm-12">
                 <h1 class="col-lg-12 col-md-12 col-sm-12">Variedades</h1>

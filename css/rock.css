@@ -7,17 +7,32 @@ h1 {
 article,
 section,
 p {
-    padding-top: 25px;
+    padding-top: 15px;
     padding-bottom: 15px;
     text-align: justify;
 }
 
-article {
-    padding-bottom: 15px;
-}
-
-
 .espacopadding {
     padding-bottom: 15px;
     padding-top: 20px;
+}
+
+.playlist {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.button-spotify {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.button-youtube {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.positionbutton {
+    margin-top: 60px;
+    margin-bottom: 80px;
 }
