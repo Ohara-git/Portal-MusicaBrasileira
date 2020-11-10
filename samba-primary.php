@@ -32,7 +32,7 @@
         
         <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
-                <img src="images/no_img.jpg" width="100%" height="300" />
+                <img src="images/header.jpg" width="100%" height="300" />
             </header>
         </div>
 

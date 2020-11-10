@@ -28,9 +28,9 @@
         include 'includes/nav.php';
         ?>
          
-        <div class="row">
+         <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
-                <img src="images/no_img.jpg" width="100%" height="300" />
+                <img src="images/header.jpg" width="100%" height="300" />
             </header>
         </div>
 
@@ -74,7 +74,7 @@
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
                     <h2 class= "samba">Zeca Pagodinho</h2>
-                    <img src="images/zecapagodinho.png" alt="" eight="300" width="560" class="img-fluid  " />
+                    <img src="images/zecapagodinho.png" alt="" eight="300" width="560" class="img-fluid  img " />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -92,7 +92,7 @@
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
                     <h2 class= "samba">Adoniran Barbosa </h2>
-                    <img src="images/Adoniran Barbosa.png" alt="" eight="300" width="560" class="img-fluid  " />
+                    <img src="images/Adoniran Barbosa.png" alt="" eight="300" width="560" class="img-fluid   " />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -108,7 +108,7 @@
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
                     <h2 class= "samba">Pixinguinha</h2>
-                    <img src="images/Pixinguinha.png" alt="" height="300" width="560" class="img-fluid " />
+                    <img src="images/Pixinguinha.png" alt="" height="300" width="560" class="img-fluid  " />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -124,7 +124,7 @@
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
                     <h2 class= "samba">Beth Carvalho </h2>
-                    <img src="images/BethCArvalho.png" alt="" height="300" width="560" class="img-fluid " />
+                    <img src="images/BethCArvalho.png" alt="" height="300" width="560" class="img-fluid   " />
                     <div class="mb-0">
                         <br>
                         <p>
