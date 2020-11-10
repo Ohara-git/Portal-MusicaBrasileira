@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!DOCTYPE php>
+<php lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -21,12 +21,12 @@
     <div class="container">
         <?php
             include 'includes/nav.php';
-            ?>
+        ?>
                   
        
         <div class="row">
             <header class="col-lg-12 col-md-12 col-sm-12">
-                <img src="images/no_img.jpg" width="100%" height="300" />
+                <img src="images/header.jpg" width="100%" height="300" />
             </header>
         </div>
 
@@ -117,27 +117,27 @@
                 <nav class="navbar">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="index.html">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown"
                                 aria-haspopup="true" aria-expanded="false">Estilos</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown01">
-                                <a class="dropdown-item" href="axe-primary.html">Axé</a>
-                                <a class="dropdown-item" href="forro-primary.html">Forró</a>
-                                <a class="dropdown-item" href="rock-primary.html">Rock</a>
-                                <a class="dropdown-item" href="mpb-primary.html">Mpb</a>
-                                <a class="dropdown-item" href="samba-primary.html">Samba</a>
+                                <a class="dropdown-item" href="axe-primary.php">Axé</a>
+                                <a class="dropdown-item" href="forro-primary.php">Forró</a>
+                                <a class="dropdown-item" href="rock-primary.php">Rock</a>
+                                <a class="dropdown-item" href="mpb-primary.php">Mpb</a>
+                                <a class="dropdown-item" href="samba-primary.php">Samba</a>
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a href="quem-somos.html">Quem somos</a>
+                            <a href="quem-somos.php">Quem somos</a>
                         </li>
                         <li class="nav-item">
-                            <a href="normas.html">Normas de uso</a>
+                            <a href="normas.php">Normas de uso</a>
                         </li>
                         <li class="nav-item">
-                            <a href="contato.html">Contato</a>
+                            <a href="contato.php">Contato</a>
                         </li>
                     </ul>
                 </nav>
@@ -160,4 +160,4 @@
 
 </body>
 
-</html>
+</php>

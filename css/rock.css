@@ -1,33 +1,23 @@
 h1 {
     text-align: center;
-
     font-family: Verdana, Tahoma, sans-serif;
 }
 
-p {
-    text-align: justify;
-}
 
 article,
 section,
 p {
     padding-top: 25px;
-    padding-bottom: 25px;
+    padding-bottom: 15px;
+    text-align: justify;
 }
 
-article,
-section {
+article {
     padding-bottom: 15px;
 }
 
-.positionbutton {
-    object-position: center;
-
-}
 
 .espacopadding {
     padding-bottom: 15px;
     padding-top: 20px;
-
 }
-
