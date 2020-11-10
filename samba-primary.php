@@ -24,49 +24,12 @@
 
 <body>
     <div class="container">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand" href="#">
-                <img src="images/no_img.jpg" alt="" width="50px" height="50px">
-                Musica brasileira
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ChamaOEsau"
-                aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
 
-            <div class="collapse navbar-collapse" id="ChamaOEsau">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">Estilos</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown01">
-                            <a class="dropdown-item" href="axe-primary.html">Axé</a>
-                            <a class="dropdown-item" href="forro-primary.html">Forró</a>
-                            <a class="dropdown-item" href="rock-primary.html">Rock</a>
-                            <a class="dropdown-item" href="mpb-primary.html">Mpb</a>
-                            <a class="dropdown-item" href="samba-primary.html">Samba</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="quem-somos.html" tabindex="-1" aria-disabled="true">Quem somos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="normas.html" tabindex="-1" aria-disabled="true">Normas de uso</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contato.html" tabindex="-1" aria-disabled="true">Contato</a>
-                    </li>
-                </ul>
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="text" placeholder="Pesquise" aria-label="Search">
-                    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Pesquisar</button>
-                </form>
-            </div>
-        </nav>
+        <?php
+        include 'includes/nav.php';
+        ?>
 
+        
         <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
                 <img src="images/no_img.jpg" width="100%" height="300" />
@@ -75,45 +38,43 @@
 
         <header>
             <br>
+            <p>
+            <h1 class="samba img-fluid samba1">Samba</h1>
+
+            <blockquote class="blockquote">
+                <p class="mb-0 img-fluid ">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Praesent in metus congue, elementum velit sed, consequat purus.
+                    Pante, luctus in hendrerit quis, venenatis varius nunc</p>
+                <br>
+                <p class="blockquote-footer">Someone famous in </p>
+            </blockquote>
+
+
             <div id="carouselsamba" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="images/no_img.jpg" class="img-fluid d-block" alt="primeiraimagem">
+                        <img src="images/carrousel1.jpg" class="img-fluid d-block" alt="primeiraimagem">
                     </div>
                     <div class="carousel-item">
-                        <img src="images/no_img.jpg" class="img-fluid d-block" alt="segundoimagem">
+                        <img src="images/carrousel2.jpg" class="img-fluid d-block" alt="segundoimagem">
                     </div>
                     <div class="carousel-item">
-                        <img src="images/no_img.jpg" class="img-fluid d-block" alt="terceiraimagem">
+                        <img src="images/carrousel3.jpg" class="img-fluid d-block" alt="terceiraimagem">
                     </div>
                     <div class="carousel-item">
-                        <img src="images/no_img.jpg" class="img-fluid d-block" alt="quartaimagem">
+                        <img src="images/carrousel4.jpg" class="img-fluid d-block" alt="quartaimagem">
                     </div>
                 </div>
             </div>
 
         </header>
 
-
         <div class="row">
-
             <article class="col-12 col-md-12 col-sm-12">
                 <p>
+               <br>
 
-                    <h1 class="samba img-fluid">Samba</h1>
-                    <br>
-                    <blockquote class="blockquote">
-                        <p class="mb-0 img-fluid ">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Praesent in metus congue, elementum velit sed, consequat purus.
-                            Pante, luctus in hendrerit quis, venenatis varius nunc</p>
-                        <br>
-                        <p class="blockquote-footer">Someone famous in </p>
-                    </blockquote>
-                    <div class="text-center">
-                        <img src="images/no_img.jpg" height="550" width="600" class="img-fluid" />
-                    </div>
-
-                    <div class="mb-0">
+                    <div class="mb-1">
                         <br>
                         <p class="col-lg-12 col-md-12 col-sm-12">
                             Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor
@@ -144,12 +105,15 @@
 
         <div class="row">
             <h2 class="col-lg-12 col-md-12 col-sm-12 samba">História do Samba</h2>
+            <p>
+          
             <section class="col-lg-12 col-md-4 col-sm-12 ">
-                <img src="images/no_img.jpg" alt="violão e samba" height="300" width="540" class="img-fluid " />
-                <img src="images/no_img.jpg" alt="samba" height="300" width="540" class="img-fluid" />
+                <img src="images/samba6.png" alt="violão e samba" height="300" width="540" class="img-fluid " />
+                <img src="images/samba8.png" alt="samba" height="300" width="540" class="img-fluid" />
             </section>
             <section class="col-lg-12 col-md-7 col-sm-12">
                 <p>
+                 
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
                     ante, luctus in hendrerit quis, venenatis varius nunc
@@ -174,13 +138,13 @@
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
                     ante, luctus in hendrerit quis, venenatis varius nunc
-                </p>
+                
             </section>
         </div>
 
 
         <section class="col-lg-12 col-md-12 col-sm-12 positionbutton">
-            <button> <a href="samba-secondary.html"> Veja Mais </a> </button>
+            <button> <a href="samba-secondary.html " class="button"> Veja Mais </a> </button>
         </section>
 
     </div>
