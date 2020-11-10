@@ -150,7 +150,7 @@
          
     <div class="row">
         <section class="col-12 col-md-12 col-sm-12 positionbutton">
-            <button><a href="samba-primary.html">Voltar</a></button>
+            <button><a href="samba-primary.php">Voltar</a></button>
         </section>
     </div>
 

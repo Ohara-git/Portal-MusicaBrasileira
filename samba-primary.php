@@ -144,7 +144,7 @@
 
 
         <section class="col-lg-12 col-md-12 col-sm-12 positionbutton">
-            <button> <a href="samba-secondary.html " class="button"> Veja Mais </a> </button>
+            <button> <a href="samba-secondary.php " class="button"> Veja Mais </a> </button>
         </section>
 
     </div>
