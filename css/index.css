@@ -1,23 +1,27 @@
-h1, h2 {
+h1,
+h2 {
     text-align: center;
 }
 
-.topo-home{
+.topo-home {
     margin-top: 80px;
     margin-bottom: 60px;
-}    
-.musica-brasileira{
+}
+
+.musica-brasileira {
     height: 350px;
     width: 100%;
-    
 }
-.forro{
+
+.forro {
     margin-bottom: 80px;
 }
-.mpb{
+
+.mpb {
     margin-bottom: 100px;
 }
-.img-sec{
+
+.img-sec {
     height: 200px;
     width: 100%;
 }
@@ -26,9 +30,10 @@ h1, h2 {
     text-align: center;
 }
 
-a { color: inherit; } 
+a {
+    color: inherit;
+}
 
-a:link 
-{ 
- text-decoration:none; 
-} 
+a:link {
+    text-decoration: none;
+}
