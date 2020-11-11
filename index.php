@@ -38,10 +38,10 @@
               <div class="row topo-home">
                 <div class="col-12">
                   <h1>Música Brasileira</h1>
-                <div class="col-10 offset-1">
-                  <img src="images/home-top.jpg" class="img-fluid musica-brasileira" alt="" width="100%" height=>
+                  <div class="col-10 offset-1">
+                    <img src="images/home-top.jpg" class="img-fluid musica-brasileira" alt="" width="100%" height=>
+                    <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
                   </div>  
-                  <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
                 </div>
               </div>
               
@@ -50,31 +50,70 @@
               <section class="row">
                   <div class="col-lg-4  col-md-6">
                     <h2>Axé</h2>
-                    <img src="images/home-axe.jpg" class="img-fluid" alt="">
+                    <img src="images/home-axe.jpg" class="img-fluid img-sec" alt="">
                     <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+
+                    <!-- Botões de acesso ___>>>>>>>>> -->
+                    <div class="row botao-vejamais">
+                      <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                        <button type="button" class="btn btn-success"><a href="axe-primary.php">Veja mais</a></button>
+                      </section>
+                    </div>
+                    
+                    
                   </div>
                   <div class="col-lg-4 col-md-6">
                     <h2>Rock</h2>
-                    <img src="images/home-rock.jpg" class="img-fluid" alt="">
+                    <img src="images/home-rock.jpg" class="img-fluid img-sec" alt="">
                     <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+
+                    <!-- Botões de acesso ___>>>>>>>>> -->
+                    <div class="row botao-vejamais">
+                      <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                        <button type="button" class="btn btn-success"><a href="rock-primary.php">Veja mais</a></button>
+                      </section>
+                    </div>
+
                   </div>
-                  <div class="col-md-6 offset-md-3 col-lg-4 offset-lg-0">
+
+                  <div class="col-md-6 offset-md-3 col-lg-4 offset-lg-0 forro">
                     <h2>Forró</h2>
-                    <img src="images/home-forro.jpg" class="img-fluid" alt="">
+                    <img src="images/home-forro.jpg" class="img-fluid img-sec" alt="">
                     <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+
+                    <!-- Botões de acesso ___>>>>>>>>> -->
+                    <div class="row botao-vejamais">
+                      <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                        <button type="button" class="btn btn-success"><a href="forro-primary.php">Veja mais</a></button>
+                      </section>
+                    </div>
                   </div>
               </section>
       
               <section class="row justify-content-between">
                 <div class="col-lg-4 col-md-6">
                   <h2>Samba</h2>
-                  <img src="images/home-samba.jpg" class="img-fluid" alt="">
+                  <img src="images/home-samba.jpg" class="img-fluid img-sec" alt="">
                   <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+
+                  <!-- Botões de acesso ___>>>>>>>>> -->
+                  <div class="row botao-vejamais">
+                      <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                        <button type="button" class="btn btn-success"><a href="samba-primary.php">Veja mais</a></button>
+                      </section>
+                    </div>
+
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 mpb">
                   <h2>Mpb</h2>
-                  <img src="images/home-mpb.jpg" class="img-fluid" alt="">
+                  <img src="images/home-mpb.jpg" class="img-fluid img-sec" alt="">
                   <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+                  <!-- Botões de acesso ___>>>>>>>>> -->
+                  <div class="row botao-vejamais">
+                      <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                        <button type="button" class="btn btn-success"><a href="mpb-primary.php">Veja mais</a></button>
+                      </section>
+                  </div>
                 </div>
                 
             </section>
