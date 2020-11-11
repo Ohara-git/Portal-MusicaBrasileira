@@ -44,7 +44,7 @@
         <div class="row">
             <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/Ale.jpg" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/Ale.jpg" class=" img-fluid col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -54,7 +54,7 @@
 
             <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/esau.jpg"  class="col-lg-6 col-md-4 col-4" />
+                <img src="images/esau.jpg"  class=" img-fluid col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -70,7 +70,7 @@
         <div class="row">
             <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/felipe.jpg" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/felipe.jpg" class=" img-fluid col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -80,7 +80,7 @@
 
             <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/lucas.jpg" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/lucas.jpg" class="img-fluid col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
@@ -91,7 +91,7 @@
         <div class="row">
             <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/rodrigo.jpg" class="col-lg-6 col-md-4 col-4" />
+                <img src="images/rodrigo.jpg" class=" img-fluid col-lg-6 col-md-4 col-4" />
                 <p class="col-lg-6 col-md-8 col-8">
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
