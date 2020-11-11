@@ -61,7 +61,7 @@
                             <label for="exampleFormControlTextarea1">Deixa sua mensagem</label>
                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
-                            <button type="submit" class="btn btn-primary">Enviar</button>
+                            <button type="submit" class="btn btn-success mx-auto d-block">Enviar</button>
                       </form>
                 </div>
 
