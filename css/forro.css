@@ -67,5 +67,8 @@ img .forro-primary {
 }
 
 .img-secondary{
-    border: dashed 4px purple;
+    border: dashed 4px pink;
+    height: 250px;
+    width: 100%;
+    margin-bottom: 100px;
 }
