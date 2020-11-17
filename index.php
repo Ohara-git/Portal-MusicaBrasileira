@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!DOCTYPE php>
+<php lang="pt-BR">
 
 <head>
     <meta charset="utf-8">
@@ -119,42 +119,12 @@
             </section>
       
       
-            <div class="row footer-cor">
-              <footer class="col-6">
-                  <h3>Menu</h3>
-                  <nav class="navbar">
-                      <ul class="navbar-nav">
-                          <li class="nav-item">
-                              <a href="index.html">Home</a>
-                          </li>
-                          <li class="nav-item dropdown">
-                              <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estilos</a>
-                              <div class="dropdown-menu" aria-labelledby="dropdown01">
-                                <a class="dropdown-item" href="axe-primary.html">Axé</a>
-                                <a class="dropdown-item" href="forro-primary.html">Forró</a>
-                                <a class="dropdown-item" href="rock-primary.html">Rock</a>
-                                <a class="dropdown-item" href="mpb-primary.html">Mpb</a>
-                                <a class="dropdown-item" href="samba-primary.html">Samba</a>
-                              </div>
-                          </li>
-                          <li class="nav-item">
-                              <a href="quem-somos.html">Quem somos</a>
-                          </li>
-                          <li class="nav-item">
-                              <a href="normas.html">Normas de uso</a>
-                          </li>
-                          <li class="nav-item">
-                              <a href="contato.html">Contato</a>
-                          </li>
-                      </ul>
-                  </nav>
-              </footer>
-              <div class="col align-self-end">
-                  
-                      <small>&copy todos os direitos reservados</small>
-      
-              </div>
-        </div>
+            <?php
+            include 'includes/footer.php';
+            ?>
+
+
+
       </div>
     </div>
 
@@ -166,4 +136,4 @@
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
-</body></html>
+</body></php>

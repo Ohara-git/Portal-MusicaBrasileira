@@ -1,8 +1,8 @@
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
-            <a class="navbar-brand" href="#">
-                <img src="images/Pequena.jpg" alt="" width="50px" height="50px">
+            <a class="navbar-brand" href="index.php">
+                <img src="images/icon_music.ico" alt="" width="50px" height="50px">
                 Musica brasileira
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ChamaOEsau"
