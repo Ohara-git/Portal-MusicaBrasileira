@@ -14,9 +14,11 @@
    
     <link rel="stylesheet" href="css/bootstrap.min.css" />
 
+    <link rel="stylesheet" href="css/MPB.css" />
+
     <link rel="stylesheet" href="css/base.css" />
 
-    
+  
 
 </head>
 
@@ -27,12 +29,12 @@
         ?>
         <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
-                <img src="images/no_img.jpg" width="100%" height="300" />
+                <img src="images/header.jpg" width="100%" height="300" />
             </header>
         </div>
         <div class="row">
             <article class="col-lg-7 col-md-8 col-sm-12">
-                <h1 class="display-1">Article</h1>
+                <h1 class="display-1">MPB </h1>
 
 
                 </h3>
@@ -64,12 +66,12 @@
 
 
 
-            <aside class="col-lg-5 col-md-4 col-sm-12">
-                <h1 class="display-2">Aside</h1>
+            <aside class="col-lg-5 col-md-4 col-sm-12 aside">
+                <h1 class="display-2">artista</h1>
 
-                <img class="img-fluid" src="images/no_img.jpg" height="100%" width="100%">
+                <img class="img-fluid rubel" src="images/rubel.jpg" height="400px" width="100%">
 
-                <img class="img-fluid align-items-end" src="images/no_img.jpg" width="100%">
+                <img class="img-fluid align-items-end cazuza" src="images/cazuza.jpg" width="100%">
 
 
 
@@ -77,13 +79,13 @@
             </aside>
         </div>
         
-        <div class="row"><h1 class="col-lg-12 col-md-12 col-sm-12">title 1</h1></div>    
+        <div class="row  titulo2"><h1 class="col-lg-12 col-md-12 col-sm-12">title 1</h1></div>    
         
         <div class="row">
             
             <section class="col-lg-6 col-md-4 col-sm-12">
                 
-                <img class="img-fluid" src="images/no_img.jpg" width="100%">
+                <img class="img-fluid maia" src="images/tim_maia.jpg" width="100%">
 
             </section>
 
@@ -116,49 +118,14 @@
            
                
                
-               <section> <button> <a href="mpb-secondary.html">proxima pagina </a> </button></section>
+               <section> <button> <a href="mpb-secondary.php">proxima pagina </a> </button></section>
 
           
 
     </div>
-        <div class="row footer-cor">
-            <footer class="col-6">
-                <h3>Menu</h3>
-                <nav class="navbar">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a href="index.html">Home</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown"
-                                aria-haspopup="true" aria-expanded="false">Estilos</a>
-                            <div class="dropdown-menu" aria-labelledby="dropdown01">
-                                <a class="dropdown-item" href="axe-primary.html">Axé</a>
-                            <a class="dropdown-item" href="forro-primary.html">Forró</a>
-                            <a class="dropdown-item" href="rock-primary.html">Rock</a>
-                            <a class="dropdown-item" href="mpb-primary.html">Mpb</a>
-                            <a class="dropdown-item" href="samba-primary.html">Samba</a>
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a href="quem-somos.html">Quem somos</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="normas.html">Normas de uso</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="contato.html">Contato</a>
-                        </li>
-                    </ul>
-                </nav>
-            </footer>
-            <div class="col align-self-end">
-
-                <small>&copy todos os direitos reservados</small>
-
-            </div>
-        </div>
-
+    <?php
+            include 'includes/footer.php';
+    ?>
 
         <!-- Bootstrap core JavaScript
     ================================================== -->

@@ -25,6 +25,7 @@ section h2 {
 img .forro-primary {
     width: 100%;
     height: 250px;
+    
 }
 
 .botao-voltar {
@@ -65,3 +66,30 @@ img .forro-primary {
     margin-top: 60px;
     margin-bottom: 80px;
 }
+/* CONFIGURAÇAO DAS IMAGENS --------------------------------------------- */
+.imgs-prima{
+    border: solid 1px #ff4500;
+    box-shadow: 3px 5px 4px black;
+    margin-bottom: 40px;
+}
+
+
+.img-secondary{
+    border: solid 1px #ff4500;
+    height: 200px;
+    width: 80%;
+    margin-bottom: 40px;
+    text-align: center;
+    box-shadow: 3px 5px 4px black;
+}
+
+/* FONTE ----------------------------------------------- */
+
+h1, h2{
+    font-family: 'Fjalla One', sans-serif;
+    color: #00B38F;
+    font-weight: bold;
+}
+
+
+

@@ -1,33 +1,38 @@
 h1 {
     text-align: center;
-
     font-family: Verdana, Tahoma, sans-serif;
 }
 
-p {
-    text-align: justify;
-}
 
 article,
 section,
 p {
-    padding-top: 25px;
-    padding-bottom: 25px;
-}
-
-article,
-section {
+    padding-top: 15px;
     padding-bottom: 15px;
-}
-
-.positionbutton {
-    object-position: center;
-
+    text-align: left;
 }
 
 .espacopadding {
     padding-bottom: 15px;
     padding-top: 20px;
-
 }
+
+.button-spotify {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.button-youtube {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btcenter{
+    text-align: center;
+}
+
+.bgrock{
+    background-color:rgb(238, 238, 238);
+}
+
 

@@ -18,6 +18,9 @@
     <link href="/css/meu.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/forro.css">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -28,7 +31,7 @@
                 include 'includes/nav.php';
             ?>
 
-            
+
           <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
                 <img src="images/header.jpg" width="100%" height="300" />
@@ -38,7 +41,7 @@
           
         <div class="row section-inicial">
             <div class="col-lg-6 col-md-6 col-sm-12">
-               <img src="images/forró- slogan.jpg" class="img-fluid musica-brasileira" alt="">
+               <img src="images/forro-topo.jpg" class="img-fluid musica-brasileira imgs-prima rounded" alt="">
             </div>  
           <div class="col-lg-6 col-md-6 col-sm-12">
             <h1>Forró</h1>
@@ -49,21 +52,20 @@
 
         <section class="row section-variedades">
             <div class="col-lg-4 col-md-6">
-              <h2>Variedade</h2>
-              <img src="images/emConstrucao.jpg" class="img-fluid" alt="">
+              <h2>Sanfoneiro</h2>
+              <img src="images/variedades01.jpg" class="img-fluid imgs-prima rounded" alt="">
               <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
             </div>
             <div class="col-lg-4 col-md-6">
-                <h2>Variedade</h2>
-              <img src="images/emConstrucao.jpg" class="img-fluid" alt="">
+              <h2>Dança</h2>
+              <img src="images/variedades02.jpg" class="img-fluid imgs-prima rounded" alt="">
               <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
             </div>
-            <div class="col-lg-4 col-md-12">
-                <h2 class="variedade-3">Variedade</h2>
-                <div class="row">
-                    <img src="images/emConstrucao.jpg" class="img-fluid col-lg-12 col-md-6" alt="">
-                    <P class="col-lg-12 col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
-                </div>
+            <div class="col-lg-4 col-md-6">
+                <h2>Alegria</h2>
+                <img src="images/variedades03.jpg" class="img-fluid imgs-prima rounded" alt="">
+                <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
+                
             </div>
 
 
@@ -72,53 +74,22 @@
         <section class="row">
           <div class="offset-lg-2 co-lg-8 offset-md-2 col-md-8 col-sm-12">
 
-            <img src="images/forró- slogan.jpg" class="img-fluid musica-brasileira forro-primary align-self-center" alt="">
+            <img src="images/forro_slogan.jpg" class="img-fluid musica-brasileira forro-primary align-self-center imgs-prima rounded" alt="">
 
             <div class="row botao-vejamais">
                 <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                    <button><a href="forro-secondary.html">Veja mais</a></button>
+                    <button type="button" class="btn btn-success"><a href="forro-secondary.php">Veja mais</a></button>
                 </section>
             </div>
           </div>
          
       </section>
       
-            <div class="row footer-cor">
-              <footer class="col-6">
-                  <h3>Menu</h3>
-                  <nav class="navbar">
-                      <ul class="navbar-nav">
-                          <li class="nav-item">
-                              <a href="index.html">Home</a>
-                          </li>
-                          <li class="nav-item dropdown">
-                              <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Estilos</a>
-                              <div class="dropdown-menu" aria-labelledby="dropdown01">
-                                <a class="dropdown-item" href="axe-primary.html">Axé</a>
-                                <a class="dropdown-item" href="forro-primary.html">Forró</a>
-                                <a class="dropdown-item" href="rock-primary.html">Rock</a>
-                                <a class="dropdown-item" href="mpb-primary.html">Mpb</a>
-                                <a class="dropdown-item" href="samba-primary.html">Samba</a>
-                              </div>
-                          </li>
-                          <li class="nav-item">
-                              <a href="quem-somos.html">Quem somos</a>
-                          </li>
-                          <li class="nav-item">
-                              <a href="normas.html">Normas de uso</a>
-                          </li>
-                          <li class="nav-item">
-                              <a href="contato.html">Contato</a>
-                          </li>
-                      </ul>
-                  </nav>
-              </footer>
-              <div class="col align-self-end">
-                  
-                      <small>&copy todos os direitos reservados</small>
-      
-              </div>
-        </div>
+      <?php
+            include 'includes/footer.php';
+        ?>
+
+        
       </div>
     </div>
 
