@@ -87,8 +87,15 @@ img .forro-primary {
 
 h1, h2{
     font-family: 'Fjalla One', sans-serif;
-    color: #00B38F;
+    color: #ff4500;
     font-weight: bold;
+}
+
+/*Mudança de cor do botão */
+.btn-success{
+    background-color:  #ff4500 !important;
+    border-color: #ff4500 !important;
+
 }
 
 

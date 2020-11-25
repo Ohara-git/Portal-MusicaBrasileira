@@ -18,6 +18,12 @@
     <link href="css/meu.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="css/base.css"/>
     <link rel="stylesheet" href="css/index.css"/>
+
+    <!-- Links das fontes aqui --------------------------------------------- -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+
+    
 </head>
 
 <body>
@@ -29,11 +35,11 @@
             ?>
 
 
-          <div class="row">
-            <header class="col-12 col-md-12 col-sm-12">
-                <img src="images/header.jpg" width="100%" height="300" />
-            </header>
-        </div>
+          <heade class="row">
+            <div class="col-12 col-md-12 col-sm-12">
+                <img src="images/header.jpg" width="100%" height="300"/>
+            </div>
+          </heade>
       
               <div class="row topo-home">
                 <div class="col-12">
@@ -56,7 +62,7 @@
                     <!-- Botões de acesso ___>>>>>>>>> -->
                     <div class="row botao-vejamais">
                       <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                        <button type="button" class="btn btn-success"><a href="axe-primary.php">Veja mais</a></button>
+                        <button type="button" class="btn btn-dark"><a href="axe-primary.php">Veja mais</a></button>
                       </section>
                     </div>
                     
@@ -70,7 +76,7 @@
                     <!-- Botões de acesso ___>>>>>>>>> -->
                     <div class="row botao-vejamais">
                       <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                        <button type="button" class="btn btn-success"><a href="rock-primary.php">Veja mais</a></button>
+                        <button type="button" class="btn btn-dark"><a href="rock-primary.php">Veja mais</a></button>
                       </section>
                     </div>
 
@@ -84,7 +90,7 @@
                     <!-- Botões de acesso ___>>>>>>>>> -->
                     <div class="row botao-vejamais">
                       <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                        <button type="button" class="btn btn-success"><a href="forro-primary.php">Veja mais</a></button>
+                        <button type="button" class="btn btn-dark"><a href="forro-primary.php">Veja mais</a></button>
                       </section>
                     </div>
                   </div>
@@ -99,7 +105,7 @@
                   <!-- Botões de acesso ___>>>>>>>>> -->
                   <div class="row botao-vejamais">
                       <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                        <button type="button" class="btn btn-success"><a href="samba-primary.php">Veja mais</a></button>
+                        <button type="button" class="btn btn-dark"><a href="samba-primary.php">Veja mais</a></button>
                       </section>
                     </div>
 
@@ -111,7 +117,7 @@
                   <!-- Botões de acesso ___>>>>>>>>> -->
                   <div class="row botao-vejamais">
                       <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                        <button type="button" class="btn btn-success"><a href="mpb-primary.php">Veja mais</a></button>
+                        <button type="button" class="btn btn-dark"><a href="mpb-primary.php">Veja mais</a></button>
                       </section>
                   </div>
                 </div>
