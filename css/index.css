@@ -37,3 +37,7 @@ a {
 a:link {
     text-decoration: none;
 }
+
+h1, h2{
+    color: #36586b;
+}

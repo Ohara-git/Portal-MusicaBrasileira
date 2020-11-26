@@ -27,3 +27,11 @@ a:hover {
 .bg-dark{
     background-color: black!important;
 }
+
+
+/* todos os h1 ou h2 serão usadas a mesma fonte para que permaneça a indentidade visual */
+
+h1,h2{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+}
