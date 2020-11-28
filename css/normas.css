@@ -1,0 +1,21 @@
+.bordaa {
+    font-size: 5mm;
+    color:#fafafa; 
+    background-color: #4c7389 ;
+}
+
+.space {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.textspace{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+ .aspacecentral{
+    background-color: #4c7389;
+    margin-left: 1%;  
+ }
