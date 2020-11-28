@@ -17,6 +17,10 @@
         <link href="/css/meu.css" rel="stylesheet" type="text/css"/>
         <link rel="stylesheet" href="css/base.css">
         <link rel="stylesheet" href="css/contato.css">
+
+
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+      <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
     </head>
     
     <body>
@@ -61,7 +65,7 @@
                             <label for="exampleFormControlTextarea1">Deixa sua mensagem</label>
                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
-                            <button type="submit" class="btn btn-success mx-auto d-block">Enviar</button>
+                            <button type="submit" class="btn btn-dark mx-auto d-block">Enviar</button>
                       </form>
                 </div>
 
