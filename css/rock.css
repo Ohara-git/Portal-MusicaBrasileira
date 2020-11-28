@@ -1,33 +1,64 @@
-h1 {
+.titulo {
     text-align: center;
-
-    font-family: Verdana, Tahoma, sans-serif;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
-p {
+.imgrock {
+    text-align: center;
+    margin-bottom: 35px;
+    margin-top: 20px;
+}
+
+.text {
     text-align: justify;
 }
 
-article,
-section,
-p {
-    padding-top: 25px;
-    padding-bottom: 25px;
+.espacolinhas {
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
-article,
-section {
-    padding-bottom: 15px;
+
+.imgs {
+    margin-bottom: 10px;
+}
+
+
+
+
+.button-spotify {
+    text-align: center;
+
+}
+
+.button-youtube {
+    text-align: center;
+
+}
+
+
+h1,
+h2,
+h3 {
+    font-family: 'Fjalla One', sans-serif;
+    color: #9A1D2F;
+    font-weight: bold;
+}
+
+/*Mudança de cor do botão */
+.btn-success {
+    background-color: #9A1D2F !important;
+    border-color: #9A1D2F !important;
+
+}
+
+.botao-vejamais {
+    margin-bottom: 30px;
 }
 
 .positionbutton {
-    object-position: center;
-
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
 }
-
-.espacopadding {
-    padding-bottom: 15px;
-    padding-top: 20px;
-
-}
-

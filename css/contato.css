@@ -1,11 +1,16 @@
 form .btn {
     text-align: right;
+    margin-bottom: 80px;
 }
 
 form {
-    margin-bottom: 50px;
+    margin-bottom: 120px;
 }
 
 .article-contato {
-    margin-top: 40px;
+    margin-top: 80px;
+}
+
+h1, h2{
+    color: #36586b;
 }
