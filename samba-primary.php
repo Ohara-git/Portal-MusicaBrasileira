@@ -19,6 +19,11 @@
     <!--Google Fonts-->
     <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+
+
+    
 
 </head>
 
@@ -39,7 +44,7 @@
         <header>
             <br>
             <p>
-            <h1 class="samba img-fluid samba1">Samba</h1>
+            <h1 >Samba</h1>
 
             <blockquote class="blockquote">
                 <p class="mb-0 img-fluid ">Lorem sei la ipsum dolor sit amet, consectetur adipiscing elit.
@@ -105,11 +110,11 @@
 
         <div class="row">
             <h2 class="col-lg-12 col-md-12 col-sm-12 samba">História do Samba</h2>
-            <p>
+           
           
-            <section class="col-lg-12 col-md-4 col-sm-12 ">
-                <img src="images/samba6.png" alt="violão e samba" height="300" width="540" class="img-fluid " />
-                <img src="images/samba8.png" alt="samba" height="300" width="540" class="img-fluid" />
+            <section  class="col-lg-12 col-md-5 col-sm-12 row ">
+                <img src="images/samba6.png" alt="violão e samba"  width="100%" class="img-fluid bola col-lg-6 col-md-12 col-sm-12" />
+                <img src="images/samba8.png" alt="samba"  width="100%"   class="img-fluid bola col-lg-6 col-md-12 col-sm-12"  />
             </section>
             <section class="col-lg-12 col-md-7 col-sm-12">
                 <p>
@@ -119,39 +124,30 @@
                     ante, luctus in hendrerit quis, venenatis varius nunc
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
                     vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
-                    ante, luctus in hendrerit quis, venenatis varius nunc.
-                    Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
-                    vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
-                    ante, luctus in hendrerit quis, venenatis varius nunc
-                    Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
-                    vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
-                    ante, luctus in hendrerit quis, venenatis varius nunc.
-                    Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
-                    vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
-                    ante, luctus in hendrerit quis, venenatis varius nunc
-                    Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
-                    vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
-                    ante, luctus in hendrerit quis, venenatis varius nunc.
-                    Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
-                    vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
-                    ante, luctus in hendrerit quis, venenatis varius nunc
-                    Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
-                    vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc neque
-                    ante, luctus in hendrerit quis, venenatis varius nunc
+                    ante, luctus in hendrerit quis, venenatis varius nunc.tiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec.
+            
+                   
+                </p>
+                 
                 
             </section>
         </div>
 
 
-        <section class="col-lg-12 col-md-12 col-sm-12 positionbutton">
-            <button> <a href="samba-secondary.php" class="button"> Veja Mais </a> </button>
-        </section>
+        <div class="row botao-vejamais">
+                    <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                        <button type="button" class="btn btn-success"><a href="samba-secondary.php">Veja
+                                mais</a></button>
+                    </section>
+        </div>
 
-    </div>
 
     <?php
             include 'includes/footer.php';
     ?>
+    </div>
+
+    
 
 
     <!-- Bootstrap core JavaScript

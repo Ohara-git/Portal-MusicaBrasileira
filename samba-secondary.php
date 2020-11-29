@@ -18,6 +18,9 @@
     <!--Google Fonts-->
     <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+
 
 </head>
 
@@ -42,7 +45,7 @@
 
 
                 <br>
-                <h1 class="samba1">Principais Artistas</h1>
+                <h1>Principais Artistas</h1>
                 <br>
                 <p class="blockquote-footer">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
 
@@ -137,27 +140,30 @@
                     </div>
                 </section>
 
-                <br>
-                <br>
+               
             </div>
 
         </div>
         <br>
         <br>
 
-    </div>
+        <div class="row botao-vejamais">
+                    <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                        <button type="button" class="btn btn-success"><a href="samba-primary.php">Voltar</a></button>
+                    </section>
+        </div>
 
-         
-    <div class="row">
-        <section class="col-12 col-md-12 col-sm-12 positionbutton">
-            <button><a href="samba-primary.php">Voltar</a></button>
-        </section>
-    </div>
 
     <?php
             include 'includes/footer.php';
     ?>
 
+
+
+    </div>
+
+         
+ 
 
 
 
