@@ -107,11 +107,11 @@
             <h2 class="col-lg-12 col-md-12 col-sm-12 samba">História do Samba</h2>
             <p>
           
-            <section class="col-lg-12 col-md-4 col-sm-12 ">
-                <img src="images/samba6.png" alt="violão e samba" height="300" width="540" class="img-fluid " />
-                <img src="images/samba8.png" alt="samba" height="300" width="540" class="img-fluid" />
+            <section class="col-lg-12 col-md-5 col-sm-12 ">
+                <img src="images/samba6.png" alt="violão e samba" height="300" width="500" class="img-fluid " />
+                <img src="images/samba8.png" alt="samba" height="300" width="500" class="img-fluid" />
             </section>
-            <section class="col-lg-12 col-md-7 col-sm-12">
+            <section class="col-lg-12 col-md-6 col-sm-12">
                 <p>
                  
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec

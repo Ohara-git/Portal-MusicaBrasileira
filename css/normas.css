@@ -1,0 +1,20 @@
+.caixa {
+    font-size: 5mm;
+    color: #fafafa;
+    background-color: #4c7389;
+    margin-bottom: 5mm;
+}
+
+.border-danger {
+    border-width: 3mm;
+    border-color: white !important
+}
+
+.space {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.textspace {
+    text-align: center;
+}

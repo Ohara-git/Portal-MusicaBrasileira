@@ -1,9 +1,7 @@
-
-
 article {
     border-top-left-radius: 10px;
-    
-    
+
+
     background-color: #FFAD67;
 
 }
@@ -16,8 +14,8 @@ section {
 
 aside {
     border-top-right-radius: 10px;
-        background-color: #FFAD67;
-    }
+    background-color: #FFAD67;
+}
 
 .cazuza {
 
@@ -36,15 +34,15 @@ aside {
     padding-bottom: 20px;
 }
 
-.titulo2{
+.titulo2 {
     background-color: #FFAD67;
 
 }
 
-.body{
+.body {
     border-bottom-left-radius: 10px;
 }
 
-h1{
+h1 {
     text-align: center;
 }
