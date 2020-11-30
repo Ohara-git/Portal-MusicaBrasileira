@@ -116,7 +116,7 @@
                 <img src="images/samba6.png" alt="violão e samba"  width="100%" class="img-fluid bola col-lg-6 col-md-12 col-sm-12" />
                 <img src="images/samba8.png" alt="samba"  width="100%"   class="img-fluid bola col-lg-6 col-md-12 col-sm-12"  />
             </section>
-            <section class="col-lg-12 col-md-7 col-sm-12">
+            <section class="col-lg-12 col-md-6 col-sm-12">
                 <p>
                  
                     Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor nec
