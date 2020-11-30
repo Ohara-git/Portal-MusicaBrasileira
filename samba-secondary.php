@@ -77,6 +77,7 @@
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
                     <h2 class= "samba">Zeca Pagodinho</h2>
+                    <br>
                     <img src="images/zecapagodinho.png" alt="" eight="300" width="560" class="img-fluid  img " />
                     <div class="mb-0">
                         <br>
@@ -94,7 +95,9 @@
 
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
+                    
                     <h2 class= "samba">Adoniran Barbosa </h2>
+                    <br>
                     <img src="images/Adoniran Barbosa.png" alt="" eight="300" width="560" class="img-fluid   " />
                     <div class="mb-0">
                         <br>
@@ -110,8 +113,10 @@
                 <br>
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
-                    <h2 class= "samba">Pixinguinha</h2>
-                    <img src="images/Pixinguinha.png" alt="" height="300" width="560" class="img-fluid  " />
+                    
+                    <h2 class= "samba">Pixinguinha &nbsp&nbsp&nbsp&nbsp</h2>
+                    <br>
+                    <img src="images/Pixinguinha.png" alt="" height="300" width="560" class="img-fluid" />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -127,7 +132,8 @@
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
                     <h2 class= "samba">Beth Carvalho </h2>
-                    <img src="images/BethCArvalho.png" alt="" height="300" width="560" class="img-fluid   " />
+                    <br>
+                    <img src="images/BethCArvalho.png" alt="" height="300" width="560" class="img-fluid" />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -147,6 +153,23 @@
         <br>
         <br>
 
+
+        <div class="container">
+                <section class="row botoes">
+                    <div class="col-sm-12 col-md-6 col-lg-6 offset-md-3">
+                        <h2 class="titulo">Ouças as Playlists</h2>
+                        <div class="row">
+                            <div class="col-6 button-spotify">
+                                <a href="https://open.spotify.com/album/2TxyFqHTYsJJOEJx8kqZiq%22%3E<img src="images/logospotify.png" class="img-fluid"  ></a>
+                            </div>
+                            <div class="col-6 button-youtube">
+                                <a href="https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL" ><img src="images/logoyoutube.png" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            
         <div class="row botao-vejamais">
                     <section class="col-12 col-md-12 col-sm-12 positionbutton">
                         <button type="button" class="btn btn-success"><a href="samba-primary.php">Voltar</a></button>
