@@ -6,13 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="projeto integrador - protal">
     <meta name="author" content="Lucas Jun Ichi Ohara">
+    
+    <!-- Links das fontes aqui --------------------------------------------- -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+       <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
 
-    <title>projeto integrador</title>
+
+    <title>MPB</title>
 
    
     <link rel="stylesheet" href="css/normalize.css" />
    
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
 
     <link rel="stylesheet" href="css/MPB.css" />
 
@@ -33,63 +40,62 @@
             </header>
         </div>
         <div class="row">
-            <article class="col-lg-7 col-md-8 col-sm-12">
-                <h1 class="display-1">MPB </h1>
+       <img class="mpb" src="images/titulo_mpb.png" width="100%"> 
+           
+       
+       
+                <article class="col-lg-12 col-md-12 col-sm-12 row">
+                
 
-
-                </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                <p class="col-lg-7 col-md-6 col-sm-12">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
                     accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
                     vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
                     Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate
                     eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, sit
-                    amet cursus nibh bibendum. Fusce ornare leo non neque scelerisque, quis molestie lacus blandit.
-                    Praesent nec interdum risus, eu rhoncus lectus. Suspendisse auctor sapien velit, et vehicula tellus
-                    viverra id. Pellentesque mollis dui eros, sit amet accumsan massa imperdiet id. Cras aliquam vel ex
-                    ut gravida. Proin eget luctus elit. Cras elementum metus sem, eget vulputate diam fermentum in.</p>
-
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
-                    accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
-                    vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate
-                    eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, sit
-                    amet cursus nibh bibendum. Fusce ornare leo non neque scelerisque, quis molestie lacus blandit.
-                    Praesent nec interdum risus, eu rhoncus lectus. Suspendisse auctor sapien velit, et vehicula tellus
-                    viverra id. Pellentesque mollis dui eros, sit amet accumsan massa imperdiet id. Cras aliquam vel ex
-                    ut gravida. Proin eget luctus elit. Cras elementum metus sem, eget vulputate diam fermentum in.</p>
-
-
-
+                    .</p>
+                    <img class="col-lg-5 col-md-6 col-sm-12"  src="images/cazuza.jpg" height="250px" width="100%">
 
             </article>
+                    
+                    
+                <div class="col-lg-12 col-md-12 col-sm-12 row">
+                     
+                <p class="col-lg-7 col-md-6 col-sm-12">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                    accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex
+                    vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
+                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate
+                    eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, sit
+                    eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, sit
+                  .</p>
+                  <img class="col-lg-5 col-md-6 col-sm-12"  src="images/rubel.jpg" height="250px" width="100%">
+
+                 </div>  
 
 
 
-            <aside class="col-lg-5 col-md-4 col-sm-12 aside">
-                <h1 class="display-2">artista</h1>
 
-                <img class="img-fluid rubel" src="images/rubel.jpg" height="400px" width="100%">
-
-                <img class="img-fluid align-items-end cazuza" src="images/cazuza.jpg" width="100%">
+            
 
 
-
-
-            </aside>
+           
+          
+           
         </div>
         
-        <div class="row  titulo2"><h1 class="col-lg-12 col-md-12 col-sm-12">title 1</h1></div>    
+        <div class="row"><h1 class="col-lg-12 col-md-12 col-sm-12">Babulina</h1></div>    
         
         <div class="row">
             
-            <section class="col-lg-6 col-md-4 col-sm-12">
+            <section class="col-lg-4 col-md-5 col-sm-12">
                 
                 <img class="img-fluid maia" src="images/tim_maia.jpg" width="100%">
+                <img src="images/tim2.jpg" width="100%" height="600" class="img-fluid d-none d-md-block d-lg-none imgs" />
 
             </section>
 
-            <section class="col-lg-6 col-md-8 col-sm-12">
+            
+            <section class="col-lg-8 col-md-7 col-sm-12">
 
                 
                 <p>
@@ -97,18 +103,10 @@
                     In eget eros enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus
                     mus. Maecenas faucibus, eros sit amet vestibulum vestibulum, elit ipsum ornare dui, nec molestie
                     turpis elit nec sapien. Fusce iaculis condimentum elit, at feugiat massa auctor sit amet. In
-                    pharetra magna in lacus facilisis pulvinar. Mauris convallis fermentum malesuada. Morbi pharetra
-                    augue metus, ac sagittis nisi scelerisque sed. Curabitur convallis lorem sit amet augue iaculis
-                    pharetra. Ut eleifend lectus in nulla ullamcorper, vitae venenatis ante laoreet. Pellentesque sit
-                    amet risus nibh.</p>
-                <p>
-
-                    In eget eros enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+                   
+                     In eget eros enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus
                     mus. Maecenas faucibus, eros sit amet vestibulum vestibulum, elit ipsum ornare dui, nec molestie
                     turpis elit nec sapien. Fusce iaculis condimentum elit, at feugiat massa auctor sit amet. In
-                    pharetra magna in lacus facilisis pulvinar. Mauris convallis fermentum malesuada. Morbi pharetra
-                    augue metus, ac sagittis nisi scelerisque sed. Curabitur convallis lorem sit amet augue iaculis
-                    pharetra. Ut eleifend lectus in nulla ullamcorper, vitae venenatis ante laoreet. Pellentesque sit
                     amet risus nibh.</p>
 
 
