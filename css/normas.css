@@ -1,3 +1,8 @@
+
+.sombra{
+    box-shadow: 3px 5px 4px black;
+}
+
 .caixa {
     font-size: 5mm;
     color: #fafafa;
@@ -5,9 +10,15 @@
     margin-bottom: 5mm;
 }
 
+.titulo {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
 .border-danger {
     border-width: 3mm;
-    border-color: white !important
+    border-color: white !important;
 }
 
 .space {
@@ -17,4 +28,30 @@
 
 .textspace {
     text-align: center;
+}
+
+
+
+h1,
+h2
+{
+    font-family: 'Fjalla One', sans-serif;
+    color: #36586b;
+    font-weight: bold;
+}
+
+.btn-success {
+    background-color: #36586b !important;
+    border-color: #36586b !important;
+
+}
+
+.botao-vejamais {
+    margin-bottom: 30px;
+}
+
+.positionbutton {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
 }

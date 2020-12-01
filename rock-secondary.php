@@ -36,7 +36,8 @@
             <div>
                 <article class="col-lg-12 col-md-12 col-sm-12">
                     <h1 class="titulo">Bandas Nacionais</h1>
-                    <p class="text">a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                    <p class="text">a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis
+                        ornare risus eget
                         accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
                         ex
                         vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
@@ -49,7 +50,7 @@
             <div class="row">
                 <section class="col-lg-8 col-md-12 col-sm-12">
 
-                    <h2>Legião Urbana</h2>
+                    <h2 class="titulo">Legião Urbana</h2>
                     <div class="row">
 
                         <section class="col-lg-6 col-md-6 col-sm-12 ">
@@ -67,7 +68,7 @@
                             Curabitur dictum sem neque, ac dignissim turpis vulputate eu
                         </p>
                     </div>
-                    <h2>Cpm 22</h2>
+                    <h2 class="titulo">Cpm 22</h2>
 
                     <div class="row">
                         <section class="col-lg-6 col-md-6 col-sm-12 ">
@@ -88,7 +89,7 @@
                             vulputate eu.
                         </p>
                     </div>
-                    <h2>Pense</h2>
+                    <h2 class="titulo">Pense</h2>
                     <div class="row">
                         <section class="col-lg-6 col-md-6 col-sm-12 ">
                             <img src="images/pense.jpg" class="img-fluid" />
@@ -100,7 +101,8 @@
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             Vestibulum facilisis ornare risus eget
                             accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat
-                            sem vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas
+                            sem vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
+                            egestas
                             in.
                             Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
                             vulputate eu.
@@ -109,7 +111,7 @@
                 </section>
 
                 <aside class="col-lg-4 col-md-12 col-sm-12">
-                    <h2>Lista de Bandas</h2>
+                    <h2 class="titulo">Lista de Bandas</h2>
                     <p> In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
                         Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
                         vulputate eu
@@ -222,14 +224,14 @@
 
             <div class="container">
                 <section class="row botoes">
-                    <div class="col-sm-6 col-md-6 col-lg-6 offset-md-3 playlist">
-                        <h1>Ouças as Playlists</h1>
+                    <div class="col-sm-12 col-md-6 col-lg-6 offset-md-3">
+                        <h2 class="titulo">Ouças as Playlists</h2>
                         <div class="row">
                             <div class="col-6 button-spotify">
-                                <button class="spotify">Spotify</button>
+                                <a href="https://open.spotify.com/album/2TxyFqHTYsJJOEJx8kqZiq"><img src="images/logospotify.png" class="img-fluid"  ></a>
                             </div>
                             <div class="col-6 button-youtube">
-                                <button class="youtube">Youtube</button>
+                                <a href="https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL" ><img src="images/logoyoutube.png" class="img-fluid"></a>
                             </div>
                         </div>
                     </div>
@@ -239,11 +241,10 @@
 
 
             <div class="row botao-vejamais">
-                    <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                        <button type="button" class="btn btn-success"><a href="rock-primary.php">Veja
-                                mais</a></button>
-                    </section>
-                </div>
+                <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                    <button type="button" class="btn btn-success"><a href="rock-primary.php">Voltar</a></button>
+                </section>
+            </div>
 
 
             <?php
