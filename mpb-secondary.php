@@ -7,7 +7,13 @@
     <meta name="description" content="projeto integrador - protal">
     <meta name="author" content="Lucas Jun Ichi Ohara">
 
-    <title>projeto integrador</title>
+        <!-- Links das fontes aqui --------------------------------------------- -->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+
+    <title>MPB</title>
 
    
     <link rel="stylesheet" href="css/normalize.css" />
@@ -35,7 +41,7 @@
         <div class="row">
 
             <section class="col-lg-12">
-                <h1 class="display-1"> principais artistas</h1>
+                <h1 class="display-1">Principais Artistas</h1>
             </section>
 
 
@@ -115,8 +121,8 @@
                 <div class="row">
 
 
-                     <section class="col-lg-12"> <h2>galeria de imagens </h2></section>
-                    <section class="col-lg-4 col-md-4 col-sm-12">
+                     <section class="col-lg-12"> <h2>Galeria de Imagens </h2></section>
+                    <section class="col-lg-4 col-md-12 col-sm-12">
      
                       <img class="img-fluid" src="images/Ana.jpg" height="100%" width="100%" >
      
@@ -125,7 +131,7 @@
                  
                  
                
-                    <section class="col-lg-4 col-md-4 col-sm-12">
+                    <section class="col-lg-4 col-md-6 col-sm-12">
                       <img class="img-fluid" src="images/iorc.jpg" height="100%" width="100%">
      
                     </section>
@@ -133,7 +139,7 @@
                     
 
                  
-                    <section class="col-lg-4 col-md-4 col-sm-12">
+                    <section class="col-lg-4 col-md-6 col-sm-12">
                       <img class="img-fluid" src="images/criolo.jpg" height="100%" width="100%">
      
                     </section>
@@ -148,7 +154,7 @@
 
 
                   
-                   <section class="col-lg-4 col-md-4 col-sm-12">
+                   <section class="col-lg-4 col-md-12 col-sm-12">
     
                      <img class="img-fluid" src="images/djavan.jpg" height="100%" width="100%">
     
@@ -157,7 +163,7 @@
                 
                 
               
-                   <section class="col-lg-4 col-md-4 col-sm-12">
+                   <section class="col-lg-4 col-md-6 col-sm-12">
                      <img class="img-fluid" src="images/jobim.jpg" height="100%" width="100%">
     
                    </section>
@@ -165,7 +171,7 @@
                    
 
                 
-                   <section class="col-lg-4 col-md-4 col-sm-12">
+                   <section class="col-lg-4 col-md-6 col-sm-12">
                      <img class="img-fluid" src="images/Lenine.jpg" height="100%" width="100%">
     
                    </section>
@@ -180,6 +186,22 @@
                <section> <button> <a href="mpb-primary.php">voltar </a> </button></section>
 
                </div>
+
+               <div class="container">
+                <section class="row botoes">
+                    <div class="col-sm-12 col-md-6 col-lg-6 offset-md-3">
+                        <h2 class="titulo">Ouças as Playlists</h2>
+                        <div class="row">
+                            <div class="col-6 button-spotify">
+                                <a href="https://open.spotify.com/playlist/37i9dQZF1DWWsfIdwltZ7x?si=g6lUsxM7T0eNv1VpolxrAA" target="_blank" > <img src="images/logospotify.png" class="img-fluid"   ></a>
+                            </div>
+                            <div class="col-6 button-youtube">
+                                <a href="https://www.youtube.com/watch?v=z4j9BhlmSSU&list=PLCwAHfhr-Gc_OhjOpJDSvKa8jbl6Ao3U5&ab_channel=anacarolinaVEVO" target="_blank"  ><img src="images/logoyoutube.png" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
             
             <?php
             include 'includes/footer.php';

@@ -1,48 +1,41 @@
-article {
-    border-top-left-radius: 10px;
 
-
-    background-color: #FFAD67;
-
+h1,
+h2,
+h3 {
+    font-family: 'Fjalla One', sans-serif;
+    color: #FCFE38;
+    font-weight: bold;
+    
 }
 
-section {
-    background-color: #FFAD67;
-
-}
-
-
-aside {
-    border-top-right-radius: 10px;
-    background-color: #FFAD67;
-}
-
-.cazuza {
-
-    padding-top: 20px;
-
-}
-
-.maia {
-
-    padding-top: 30px;
-
-}
-
-.rubel {
-
-    padding-bottom: 20px;
-}
-
-.titulo2 {
-    background-color: #FFAD67;
-
-}
-
-.body {
-    border-bottom-left-radius: 10px;
-}
-
-h1 {
+h1,
+h2 {
+    border-radius: 10px;
+    padding: 5px;
+    margin: 20px;
+    background-color: #9C38FF;
     text-align: center;
+}
+p{
+    font-size: 1.2em;
+    font-family: "bree serif", serif;
+}
+
+.rubel{
+    margin-top: 10px;
+}
+.btn-success {
+    background-color: #9A1D2F !important;
+    border-color: #9A1D2F !important;
+
+}
+
+.botao-vejamais {
+    margin-bottom: 30px;
+}
+
+.positionbutton {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
 }
