@@ -32,3 +32,8 @@ h2
     margin-top: 60px;
     margin-bottom: 30px;
 }
+
+.textsize{
+    font-size: 1.5em;
+    text-align: justify;
+}
