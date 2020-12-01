@@ -15,8 +15,12 @@
 
     <link rel="stylesheet" href="css/bootstrap.min.css" />
 
-       <link href="css/base.css" rel="stylesheet" type="text/css" />
-
+    <link href="css/base.css" rel="stylesheet" type="text/css" />
+   
+    <link href="css/axesecundary.css" rel="stylesheet" type="text/css" />
+    <!-- Links das fontes aqui --------------------------------------------- -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -27,7 +31,7 @@
 
     <div class="row">
         <header class="col-12 col-md-12 col-sm-12">
-            <img src="images/no_img.jpg" width="100%" height="300" />
+            <img src="images/header.jpg" width="100%" height="300" />
         </header>
     </div>
         <div class="row">
@@ -58,21 +62,39 @@
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in. Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, sit amet cursus nibh bibendum. Fusce ornare leo non neque scelerisque, quis molestie lacus blandit. Praesent nec interdum risus, eu rhoncus lectus. Suspendisse auctor sapien velit, et vehicula tellus viverra id. Pellentesque mollis dui eros, sit amet accumsan massa imperdiet id. Cras aliquam vel ex ut gravida. Proin eget luctus elit. Cras elementum metus sem, eget vulputate diam fermentum in.
                   Duis rhoncus auctor sem, at scelerisque magna bibendum ac. Maecenas placerat nulla pharetra enim mollis, a viverra augue pulvinar. 
+                  eros, sit amet accumsan massa imperdiet id. Cras aliquam vel ex ut gravida. Proin eget luctus elit. Cras elementum metus sem, eget vulputate diam fermentum in.
+                  Duis rhoncus auctor sem, at scelerisque magna bibendum ac. Maecenas placerat nulla pharetra enim mollis, a viverra augue pulvinar. 
+                  eros, sit amet accumsan massa imperdiet id. Cras aliquam vel ex ut gravida. Proin eget luctus elit. Cras elementum metus sem, eget vulputate diam fermentum in.
+                  Duis rhoncus auctor sem, at scelerisque magna bibendum ac. Maecenas placerat nulla pharetra enim mollis, a viverra augue pulvinar. 
                 </p>
+
           
        
             
         
             </aside>
         </div>
-    
+        <div class="container">
+                <section class="row botoes">
+                    <div class="col-sm-12 col-md-6 col-lg-6 offset-md-3">
+                        <h2 class="titulo">Ouças as Playlists</h2>
+                        <div class="row">
+                            <div class="col-6 button-spotify">
+                                <a href="https://open.spotify.com/album/2TxyFqHTYsJJOEJx8kqZiq%22%3E"><img src="images/logospotify.png" class="img-fluid"  ></a>
+                            </div>
+                            <div class="col-6 button-youtube">
+                                <a href="https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL" ><img src="images/logoyoutube.png" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
 
-        <div class="row">
-            <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                <button><a href="axe-primary.html">Voltar</a></button>
-            </section>
-        </div>
-
+            <div class="row botao-vejamais">
+                <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                    <button type="button" class="btn btn-success"><a href="axe-primary.php">Voltar</a></button>
+                </section>
+            </div>
     <div class="row footer-cor" >
             <footer class="col-6">
                 <h3>Menu</h3>

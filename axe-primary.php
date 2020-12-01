@@ -18,6 +18,9 @@
     <link href="css/base.css" rel="stylesheet" type="text/css" />
      
     <link href="css/axeprimary.css" rel="stylesheet" type="text/css"/>
+    <!-- Links das fontes aqui --------------------------------------------- -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -57,6 +60,8 @@
                   <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in. Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, sit amet cursus nibh bibendum. Fusce ornare leo non neque scelerisque, quis molestie lacus blandit. Praesent nec interdum risus, eu rhoncus lectus. Suspendisse auctor sapien velit, et vehicula tellus viverra id. Pellentesque mollis dui eros, sit amet accumsan massa imperdiet id. Cras aliquam vel ex ut gravida. Proin eget luctus elit. Cras elementum metus sem, eget vulputate diam fermentum in.
                   Duis rhoncus auctor sem, at scelerisque magna bibendum ac. Maecenas placerat nulla pharetra enim mollis, a viverra augue pulvinar. 
+                  eros, sit amet accumsan massa imperdiet id. Cras aliquam vel ex ut gravida. Proin eget luctus elit. Cras elementum metus sem, eget vulputate diam fermentum in.
+                  Duis rhoncus auctor sem, at scelerisque magna bibendum ac. Maecenas placerat nulla pharetra enim mollis, a viverra augue pulvinar. 
                 </p>
             
             
@@ -72,11 +77,11 @@
         </div>
 
 
-        <div class="row">
-            <section class="col-12 col-md-12 col-sm-12 positionbutton">
-                <button><a href="axe-secondary.php">Veja mais</a></button>
-            </section>
-        </div>
+        <div class="row botao-vejamais">
+                <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                    <button type="button" class="btn btn-success"><a href="axe-primary.php">Veja mais</a></button>
+                </section>
+            </div>
        
         <?php
             include 'includes/footer.php';
