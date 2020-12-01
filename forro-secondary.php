@@ -82,19 +82,20 @@
             <!-- Playlist -->
             <div class="container">
                 <section class="row botoes">
-                    <div class="col-sm-6 col-md-6 col-lg-6 offset-md-3 playlist">
-                        <h1>Ouças as Playlists</h1>
+                    <div class="col-sm-12 col-md-6 col-lg-6 offset-md-3">
+                        <h2 class="titulo">Ouças as Playlists</h2>
                         <div class="row">
                             <div class="col-6 button-spotify">
-                                <button type="button" class="spotify btn btn-success">Spotify</button>
+                                <a href="https://open.spotify.com/playlist/0llZ4rA8VVZtEXmBav8oRN" target="_blank"><img src="images/logospotify.png" class="img-fluid"  ></a>
                             </div>
                             <div class="col-6 button-youtube">
-                                <button type="button" class="youtube btn btn-success">Youtube</button>
+                                <a href="https://www.youtube.com/watch?v=CCZVUcadB2s&list=PLxFfose56Ajf5F-nGlOXC6MuqtrhY0x17" target="_blank" ><img src="images/logoyoutube.png" class="img-fluid"></a>
                             </div>
                         </div>
                     </div>
                 </section>
             </div>
+
       
         <div class="row botao-voltar">
             <section class="col-12 col-md-12 col-sm-12 positionbutton">

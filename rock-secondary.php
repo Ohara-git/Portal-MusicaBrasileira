@@ -228,10 +228,10 @@
                         <h2 class="titulo">Ouças as Playlists</h2>
                         <div class="row">
                             <div class="col-6 button-spotify">
-                                <a href="https://open.spotify.com/album/2TxyFqHTYsJJOEJx8kqZiq"><img src="images/logospotify.png" class="img-fluid"  ></a>
+                                <a href="https://open.spotify.com/album/2TxyFqHTYsJJOEJx8kqZiq" target="_blank"><img src="images/logospotify.png" class="img-fluid"  ></a>
                             </div>
                             <div class="col-6 button-youtube">
-                                <a href="https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL" ><img src="images/logoyoutube.png" class="img-fluid"></a>
+                                <a href="https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL" target="_blank" ><img src="images/logoyoutube.png" class="img-fluid"></a>
                             </div>
                         </div>
                     </div>
