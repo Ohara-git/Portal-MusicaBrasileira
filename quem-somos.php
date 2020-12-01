@@ -35,17 +35,19 @@
         <article class="row">
             <section class="col-12 col-md-12 col-sm-12">
                 <h1 class="titulo">QUEM SOMOS?</h1>
-                <p>
-                   Somos desenvolvedores 
+                <p class="textsize">
+                    O Portal da Música Brasileira é um trabalho desenvolvido pelo grupo Chega de Quarentena, estamos cursando o 2º semestre do curso de Sistemas para Internet, esse projeto engloba as disciplinas de PPSI-II (Padrões de Projetos de Sítios Internet II), com o Profº Rubens e de PD (Práticas de Design) com a Profº Adriana.
                 </p>
             </section>
         </article>
 
 
+        <h2 class="titulo">Participantes</h2>
         <div class="row">
+        
             <section class="row col-lg-6 col-md-12 col-sm-12 col-12 qspad">
 
-                <img src="images/Ale.jpg" class=" img-fluid col-lg-6 col-md-4 col-sm-6" />
+                <img src="images/Ale.jpg" class=" col-lg-6 col-md-4 col-sm-6" />
                  <p class="col-lg-6 col-md-8 col-sm-6">
                     <b>Nome:</b> Alexandra Oliveira
                     <br><b>Biografia:</b> 2º semestre de Sistemas de Internet, atualmente trabalhando em controladoria, mora em São Roque-SP.

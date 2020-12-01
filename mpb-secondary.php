@@ -183,7 +183,7 @@
                </div>
 
 
-               <section> <button> <a href="mpb-primary.php">voltar </a> </button></section>
+              
 
                </div>
 
@@ -200,6 +200,12 @@
                             </div>
                         </div>
                     </div>
+                </section>
+            </div>
+
+            <div class="row botao-vejamais">
+                <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                    <button type="button" class="btn btn-success"><a href="mpb-primary.php">Voltar</a></button>
                 </section>
             </div>
             

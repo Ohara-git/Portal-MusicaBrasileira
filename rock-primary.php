@@ -29,19 +29,19 @@
                 ?>
 
 
-                <div class="row">
-                    <header class="col-lg-12 col-md-12 col-sm-12">
+                <header class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
                         <img src="images/header.jpg" width="100%" height="300" />
-                    </header>
-                </div>
+                    </div>
+                </header>
 
 
-                <div class="row espacolinhas">
-                    <article class="col-lg-12 col-md-12 col-sm-12">
+                <article class="row espacolinhas">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
 
                         <h1 class="titulo col-lg-12 col-md-12 col-sm-12">ROCK</h1>
 
-                        <img src="images/rock-nacional.jpeg" width="100%" class="imgrock offset-lg-1 col-lg-10 col-md-12 col-sm-12" />
+                        <img src="images/rock-nacional.jpg" width="100%" class="imgrock offset-lg-1 col-lg-10 col-md-12 col-sm-12" />
                         <p class="text col-lg-12 col-md-12 col-sm-12">
                             Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor
                             nec
@@ -59,16 +59,16 @@
                             condimentum.
                             Nunc blandit auctor elementum. Maecenas viverra sodales elementum. 
                         </p>
-                    </article>
-                </div>
+                    </div>
+                </article>
 
-                <div class="row">
+                <section class="row">
 
-                    <section class="col-lg-4 col-md-6 col-sm-12">
-                        <img src="images/rockinriomd.jpg" width="100%" height="220" class="imgs" />
-                        <img src="images/rockinrio.jpeg" width="100%" height="600" class="img-fluid d-none d-md-block d-lg-none imgs" />
-                    </section>
-                    <section class="col-lg-8 col-md-6 col-sm-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <img src="images/rockinriomd.jpg" width="100%" height="220" class="imgs " />
+                        <img src="images/rockinrio.jpg" width="100%" height="220" class="img-fluid d-none d-md-block d-lg-none imgs" />
+                    </div>
+                    <div class="col-lg-8 col-md-6 col-sm-12">
                         <h1 class="col-lg-12 col-md-12 col-sm- titulo">Rock in Rio</h1>
                         <p class="text"> Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam
                             sodales dolor nec
@@ -81,15 +81,15 @@
                             imperdiet. Curabitur a finibus orci. Vivamus lacinia mi vel pellentesque condimentum.
                             Pellentesque
                             sed turpis pellentesque, vestibulum leo quis.lacinia mi vel pellentesque condimentum. Pellentesque sed turpis pellentesque, </p>
-                    </section>
-                </div>
+                    </div>
+                </section>
 
 
 
-                <div class="row">
+                <section class="row">
                     <h1 class=" titulo col-lg-12 col-md-12 col-sm-12">Rádios</h1>
 
-                    <section class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <img src="images/89fm.jpg" width="100%" class="img-fluid" />
                         <p class="text" > oi Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales
                             dolor
@@ -107,9 +107,9 @@
                             Aenean sed mauris ac ante molestie sagittis. Vestibulum condimentum rutrum sapien vel
                             condimentum.
                             Nunc blandit auctor elementum. Maecenas viverra sodales elementum.</p>
-                    </section>
+                    </div>
 
-                    <section class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="row">
                             <img src="images/kiss-banner2.jpg" height="350"
                                 class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-md-block d-lg-none" />
@@ -135,16 +135,16 @@
                                 condimentum Nunc blandit auctor elementum. Maecenas viverra sodales elementum.
                             </p>
                         </div>
-                    </section>
-                </div>
+                    </div>
+                </section>
 
 
-                <div class="row botao-vejamais">
-                    <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                <section class="row botao-vejamais">
+                    <div class="col-12 col-md-12 col-sm-12 positionbutton">
                         <button type="button" class="btn btn-success"><a href="rock-secondary.php">Veja
                                 mais</a></button>
-                    </section>
-                </div>
+                    </div>
+                </section>
 
 
                 <?php

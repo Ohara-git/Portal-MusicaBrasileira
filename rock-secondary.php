@@ -68,14 +68,14 @@
                             Curabitur dictum sem neque, ac dignissim turpis vulputate eu
                         </p>
                     </div>
-                    <h2 class="titulo">Cpm 22</h2>
+                    <h2 class="titulo">Matanza</h2>
 
                     <div class="row">
                         <section class="col-lg-6 col-md-6 col-sm-12 ">
-                            <img src="images/cpm22.jpg" height="300" width="540" class="img-fluid" />
+                            <img src="images/matanza.jpeg" height="300" width="540" class="img-fluid" />
                         </section>
                         <section class="col-lg-6 col-md-6 col-sm-12 d-none d-lg-block ">
-                            <img src="images/cpm22-1.jpg" class="img-fluid" />
+                            <img src="images/matanza2.jpg" height="300" width="540" class="img-fluid" />
                         </section>
                         <p class=" text col-lg-12 col-md-6 col-sm-12">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -119,103 +119,102 @@
                     <table class="table  table-striped table-hover table-bordered table-sm table-responsive-sm">
                         <tr>
                             <th scope="col">Bandas</th>
-                            <th scope="col">Nacionality</th>
-                            <th scope="col">Estilo</th>
+                            <th scope="col">Vocal</th>
+                            <th scope="col">Ano</th>
                         </tr>
                         <tr>
-                            <td>Capital</td>
-                            <td>Brasilia</td>
+                            <td>Capital Inicial</td>
+                            <td>Dinho Ouro Preto</td>
                             <td>1980</td>
 
                         </tr>
                         <tr>
-                            <td>Banda Pense</td>
-                            <td>Espirito Santos</td>
+                            <td>Supercombo</td>
+                            <td>Leonardo Ramos</td>
+                            <td>2006</td>
+
+                        </tr>
+                        <tr>
+                            <td>CPM 22</td>
+                            <td>Badaúi</td>
+                            <td>1995</td>
+
+                        </tr>
+                        <tr>
+                            <td>Scalene</td>
+                            <td>Gustavo Bertoni</td>
+                            <td>2009</td>
+
+                        </tr>
+                        <tr>
+                            <td>Zimbra</td>
+                            <td>Rafael Costa</td>
                             <td>2010</td>
 
                         </tr>
                         <tr>
-                            <td>Capital</td>
-                            <td>Brasilia</td>
-                            <td>1980</td>
+                            <td>Sepultura</td>
+                            <td>Derrick Green</td>
+                            <td>1984</td>
 
                         </tr>
                         <tr>
-                            <td>Banda Pense</td>
-                            <td>Espirito Santos</td>
-                            <td>2010</td>
+                            <td>Titãs</td>
+                            <td>Branco Mello</td>
+                            <td>1982</td>
 
                         </tr>
                         <tr>
-                            <td>Capital</td>
-                            <td>Brasilia</td>
-                            <td>1980</td>
+                            <td>Ira!</td>
+                            <td>Nazi</td>
+                            <td>1981</td>
 
                         </tr>
                         <tr>
-                            <td>Banda Pense</td>
-                            <td>Espirito Santos</td>
-                            <td>2010</td>
+                            <td>Dead Fish</td>
+                            <td>Rodrigo Lima</td>
+                            <td>1991</td>
 
                         </tr>
                         <tr>
-                            <td>Capital</td>
-                            <td>Brasilia</td>
-                            <td>1980</td>
+                            <td>Raimundos</td>
+                            <td>Digão</td>
+                            <td>1987</td>
 
                         </tr>
                         <tr>
-                            <td>Banda Pense</td>
-                            <td>Espirito Santos</td>
-                            <td>2010</td>
+                            <td>Fresno</td>
+                            <td>Lucas Silveira</td>
+                            <td>1999</td>
+                        </tr>
+                        <tr>
+                            <td>Los Hermanos</td>
+                            <td>Marcelo Camelo</td>
+                            <td>1997</td>
 
                         </tr>
                         <tr>
-                            <td>Capital</td>
-                            <td>Brasilia</td>
-                            <td>1980</td>
+                            <td>O Rappa</td>
+                            <td>Marcelo Falcão</td>
+                            <td>1993</td>
+                        </tr>
+
+                        <tr>
+                            <td>Charlie Brown Jr.</td>
+                            <td>Chorão</td>
+                            <td>1992</td>
 
                         </tr>
                         <tr>
-                            <td>Banda Pense</td>
-                            <td>Espirito Santos</td>
-                            <td>2010</td>
+                            <td>Nx Zero</td>
+                            <td>Di Ferreiro</td>
+                            <td>2001</td>
 
                         </tr>
                         <tr>
-                            <td>Capital</td>
-                            <td>Brasilia</td>
-                            <td>1980</td>
-
-                        </tr>
-                        <tr>
-                            <td>Banda Pense</td>
-                            <td>Espirito Santos</td>
-                            <td>2010</td>
-
-                        </tr>
-                        <tr>
-                            <td>Capital</td>
-                            <td>Brasilia</td>
-                            <td>1980</td>
-
-                        </tr>
-                        <tr>
-                            <td>Banda Pense</td>
-                            <td>Espirito Santos</td>
-                            <td>2010</td>
-
-                        </tr>
-                        <tr>
-                            <td>Capital</td>
-                            <td>Brasilia</td>
-                            <td>1980</td>
-
-                        </tr>
-                        <tr>
-                            <td>Banda Pense</td>
-                            <td>Espirito Santos</td>
-                            <td>2010</td>
+                            <td>Skank</td>
+                            <td>Samuel Rosa</td>
+                            <td>1990</td>
 
                         </tr>
                     </table>
@@ -228,10 +227,15 @@
                         <h2 class="titulo">Ouças as Playlists</h2>
                         <div class="row">
                             <div class="col-6 button-spotify">
-                                <a href="https://open.spotify.com/album/2TxyFqHTYsJJOEJx8kqZiq" target="_blank"><img src="images/logospotify.png" class="img-fluid"  ></a>
+
+                                <a href="https://open.spotify.com/album/2TxyFqHTYsJJOEJx8kqZiq"><img
+                                        src="images/logospotify.png" class="img-fluid"></a>
                             </div>
                             <div class="col-6 button-youtube">
-                                <a href="https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL" target="_blank" ><img src="images/logoyoutube.png" class="img-fluid"></a>
+                                <a
+                                    href="https://www.youtube.com/watch?v=2hr7Uqu6G80&list=PLJ8E1oONCGCSu4WtLe_5bdd4QdVQ3eDWL"><img
+                                        src="images/logoyoutube.png" class="img-fluid"></a>
+
                             </div>
                         </div>
                     </div>

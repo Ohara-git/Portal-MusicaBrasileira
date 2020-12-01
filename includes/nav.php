@@ -34,8 +34,8 @@
                         <a class="nav-link" href="contato.php" tabindex="-1" aria-disabled="true">Contato</a>
                     </li>
                 </ul>
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="text" placeholder="Pesquise" aria-label="Search">
+                <form method="get" action="http://www.google.com/search" class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Pesquise" aria-label="Search" name="q">
                     <button class="btn btn-secondary my-2 my-sm-0" type="submit">Pesquisar</button>
                 </form>
             </div>

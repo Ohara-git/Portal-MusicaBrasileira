@@ -90,6 +90,8 @@
                 </section>
             </div>
 
+
+     
             <div class="row botao-vejamais">
                 <section class="col-12 col-md-12 col-sm-12 positionbutton">
                     <button type="button" class="btn btn-success"><a href="axe-primary.php">Voltar</a></button>
@@ -128,6 +130,7 @@
             <div class="col align-self-end">
 
                     <small>&copy; todos os direitos reservados</small>
+
 
             </div>
         </div>
