@@ -157,7 +157,7 @@
         <div class="container">
                 <section class="row botoes">
                     <div class="col-sm-12 col-md-6 col-lg-6 offset-md-3">
-                        <h3 class="titulo">Ouças as Playlists</h3>
+                        <h2 class="titulo">Ouças as Playlists</h3>
                         <div class="row">
                             <div class="col-6 button-spotify">
                                 <a target="_blank" href="https://open.spotify.com/playlist/37i9dQZF1DWTUHOvJwQIMp"><img src="images/logospotify.png" class="img-fluid"  ></a>
