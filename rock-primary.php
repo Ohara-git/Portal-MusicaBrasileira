@@ -69,7 +69,7 @@
                         <img src="images/rockinrio.jpeg" width="100%" height="600" class="img-fluid d-none d-md-block d-lg-none imgs" />
                     </section>
                     <section class="col-lg-8 col-md-6 col-sm-12">
-                        <h1 class=" titulo col-lg-12 col-md-12 col-sm-12">Rock in Rio</h1>
+                        <h1 class="col-lg-12 col-md-12 col-sm- titulo">Rock in Rio</h1>
                         <p class="text"> Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam
                             sodales dolor nec
                             vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc
@@ -87,11 +87,11 @@
 
 
                 <div class="row">
-                    <h1 class=" titulo col-lg-12 col-md-12 col-sm-12">Radios</h1>
+                    <h1 class=" titulo col-lg-12 col-md-12 col-sm-12">Rádios</h1>
 
                     <section class="col-lg-6 col-md-12 col-sm-12">
                         <img src="images/89fm.jpg" width="100%" class="img-fluid" />
-                        <p class="text border-danger" > oi Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales
+                        <p class="text" > oi Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales
                             dolor
                             nec
                             vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc
@@ -116,7 +116,7 @@
                             <img src="images/kiss-fm.jpg" width="100%" 
                                 class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-lg-block d-sm-block d-md-none" />
 
-                            <p class="col-lg-12 col-md-6 col-sm-12"> Etiam tortor nunc, vestibulum vel tincidunt eget,
+                            <p class="col-lg-12 col-md-6 col-sm-12 text"> Etiam tortor nunc, vestibulum vel tincidunt eget,
                                 pulvinar vitae metus. Etiam
                                 sodales dolor nec
                                 vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus.
@@ -131,8 +131,7 @@
                                 sed turpis pellentesque, vestibulum leo quis, egestas ex. Donec fermentum pellentesque
                                 pulvinar.
                                 Aenean sed mauris ac ante molestie sagittis. Vestibulum condimentum rutrum sapien vel
-                                condimentum.
-                                Nunc blandit auctor elementum. Maecenas viverra sodales elementum.
+                                condimentum Nunc blandit auctor elementum. Maecenas viverra sodales elementum.
                             </p>
                         </div>
                     </section>
