@@ -18,6 +18,9 @@
     <!--Google Fonts-->
     <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+
 
 </head>
 
@@ -28,7 +31,7 @@
         include 'includes/nav.php';
         ?>
          
-        <div class="row">
+         <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
                 <img src="images/header.jpg" width="100%" height="300" />
             </header>
@@ -42,7 +45,7 @@
 
 
                 <br>
-                <h1 class="samba1">Principais Artistas</h1>
+                <h1>Principais Artistas</h1>
                 <br>
                 <p class="blockquote-footer">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
 
@@ -74,7 +77,8 @@
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
                     <h2 class= "samba">Zeca Pagodinho</h2>
-                    <img src="images/zecapagodinho.png" alt="" eight="300" width="560" class="img-fluid  " />
+                    <br>
+                    <img src="images/zecapagodinho.png" alt="" eight="300" width="560" class="img-fluid  img " />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -91,8 +95,10 @@
 
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
+                    
                     <h2 class= "samba">Adoniran Barbosa </h2>
-                    <img src="images/Adoniran Barbosa.png" alt="" eight="300" width="560" class="img-fluid  " />
+                    <br>
+                    <img src="images/Adoniran Barbosa.png" alt="" eight="300" width="560" class="img-fluid   " />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -107,8 +113,10 @@
                 <br>
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
-                    <h2 class= "samba">Pixinguinha</h2>
-                    <img src="images/Pixinguinha.png" alt="" height="300" width="560" class="img-fluid " />
+                    
+                    <h2 class= "samba">Pixinguinha &nbsp&nbsp&nbsp&nbsp</h2>
+                    <br>
+                    <img src="images/Pixinguinha.png" alt="" height="300" width="560" class="img-fluid" />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -124,7 +132,8 @@
 
                 <section class="col-lg-12 col-md-6 col-sm-6 col-6">
                     <h2 class= "samba">Beth Carvalho </h2>
-                    <img src="images/BethCArvalho.png" alt="" height="300" width="560" class="img-fluid " />
+                    <br>
+                    <img src="images/BethCArvalho.png" alt="" height="300" width="560" class="img-fluid" />
                     <div class="mb-0">
                         <br>
                         <p>
@@ -137,27 +146,47 @@
                     </div>
                 </section>
 
-                <br>
-                <br>
+               
             </div>
 
         </div>
         <br>
         <br>
 
-    </div>
 
-         
-    <div class="row">
-        <section class="col-12 col-md-12 col-sm-12 positionbutton">
-            <button><a href="samba-primary.php">Voltar</a></button>
-        </section>
-    </div>
+        <div class="container">
+                <section class="row botoes">
+                    <div class="col-sm-12 col-md-6 col-lg-6 offset-md-3">
+                        <h2 class="titulo">Ouças as Playlists</h3>
+                        <div class="row">
+                            <div class="col-6 button-spotify">
+                                <a target="_blank" href="https://open.spotify.com/playlist/37i9dQZF1DWTUHOvJwQIMp"><img src="images/logospotify.png" class="img-fluid"  ></a>
+                            </div>
+                            <div class="col-6 button-youtube">
+                                <a target="_blank" href="https://www.youtube.com/watch?v=eHSIhLG-Clw&list=PLfmShFzlmLLE0onNn2yxUP6VnHm-ufRIs" ><img src="images/logoyoutube.png" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            
+        <div class="row botao-vejamais">
+                    <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                        <button type="button" class="btn btn-success"><a href="samba-primary.php">Voltar</a></button>
+                    </section>
+        </div>
+
 
     <?php
             include 'includes/footer.php';
     ?>
 
+
+
+    </div>
+
+         
+ 
 
 
 
