@@ -16,6 +16,9 @@
     <link href="css/normas.css" rel="stylesheet" type="text/css" />
     <link href="css/base.css" rel="stylesheet" type="text/css" />
 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
@@ -32,14 +35,14 @@
 
 
         <article class="row">
-            <h1 class="offset-lg-1 col-lg-10 col-md-12 col-sm-12 textspace">Normas</h1>
+            <h1 class="titulo offset-lg-1 col-lg-10 col-md-12 col-sm-12 textspace">Normas</h1>
             <img src="images/barra.png" class="img-fluid rounded mx-auto d-block" />
         </article>
 
 
         <div class="row">
 
-            <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger">
+            <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
                 <h3>Norma1</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
@@ -48,7 +51,7 @@
                     turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
                     aliquam.</p>
             </section>
-            <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger">
+            <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
                 <h3>Norma2</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
@@ -61,7 +64,7 @@
 
         <div class="row">
 
-            <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger">
+            <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
                 <h3>Norma1</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
@@ -70,7 +73,7 @@
                     turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
                     aliquam.</p>
             </section>
-            <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger">
+            <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
                 <h3>Norma2</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
@@ -83,7 +86,7 @@
 
         <div class="row">
 
-            <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger">
+            <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
                 <h3>Norma1</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
@@ -92,7 +95,7 @@
                     turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
                     aliquam.</p>
             </section>
-            <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger">
+            <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
                 <h3>Norma2</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
@@ -103,7 +106,11 @@
             </section>
         </div>
 
-
+        <div class="row botao-vejamais">
+            <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                <button type="button" class="btn btn-success"><a href="index.php">Voltar ao Ínicio</a></button>
+            </section>
+        </div>
 
 
 
