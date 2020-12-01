@@ -43,66 +43,90 @@
         <div class="row">
 
             <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
-                <h3>Norma1</h3>
+                <h3>Norma 1</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
                     feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
-                    egestas in. Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim
-                    turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
-                    aliquam.</p>
+                    egestas in. </p>
             </section>
             <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
-                <h3>Norma2</h3>
+                <h3>Norma 2</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
                     feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
-                    egestas in. Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim
-                    turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
-                    aliquam.</p>
+                    egestas in. </p>
             </section>
         </div>
 
         <div class="row">
 
             <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
-                <h3>Norma1</h3>
+                <h3>Norma 3</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
                     feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
-                    egestas in. Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim
-                    turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
-                    aliquam.</p>
+                    egestas in. </p>
             </section>
             <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
-                <h3>Norma2</h3>
+                <h3>Norma 4</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
                     feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
-                    egestas in. Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim
-                    turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
-                    aliquam.</p>
+                    egestas in. </p>
             </section>
         </div>
 
         <div class="row">
 
             <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
-                <h3>Norma1</h3>
+                <h3>Norma 5</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
                     feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
-                    egestas in. Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim
-                    turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
-                    aliquam.</p>
+                    egestas in. </p>
             </section>
             <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
-                <h3>Norma2</h3>
+                <h3>Norma 6</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
                     risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
                     feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
-                    egestas in. Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim
-                    turpis vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
-                    aliquam.</p>
+                    egestas in. </p>
+            </section>
+        </div>
+
+        <div class="row">
+
+            <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
+                <h3>Norma 7</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
+                    risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
+                    feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
+                    egestas in. </p>
+            </section>
+            <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
+                <h3>Norma 8</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
+                    risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
+                    feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
+                    egestas in. </p>
+            </section>
+        </div>
+
+        <div class="row">
+
+            <section class="offset-lg-1 col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
+                <h3>Norma 9</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
+                    risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
+                    feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
+                    egestas in. </p>
+            </section>
+            <section class="col-lg-5 col-md-6 col-sm-12 caixa border border-danger sombra">
+                <h3>Norma 10</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare
+                    risus eget accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a
+                    feugiat sem ex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa
+                    egestas in. </p>
             </section>
         </div>
 
