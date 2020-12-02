@@ -33,35 +33,43 @@
         ?>
         <div class="row">
             <header class="col-12 col-md-12 col-sm-12">
-                <img src="images/header.jpg" width="100%" height="300" alt="aqui tem>
+                <img src="images/header.jpg" width="100%" height="300" alt="aqui tem">
             </header>
         </div>
-        <div class="row">
-                <img class="mpb" src="images/titulo_mpb.png" width="100%">
+        <div class=" row">
+
+            <img class="mpb" src="images/titulo_mpb.png" width="100%">
 
 
-                <article class="col-lg-12 col-md-12 col-sm-12 row">
+            <article class="col-lg-12 col-md-12 col-sm-12 row">
 
-                    <p class="col-lg-7 col-md-6 col-sm-12">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Vestibulum facilisis ornare risus egetaccumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat seex vitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpisvulputat eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, si.
-                     </p>
-                   
-                         <img class="col-lg-5 col-md-6 col-sm-12" src="images/cazuza.jpg" height="250px" width="100%">
+                <p class="col-lg-7 col-md-6 col-sm-12">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Vestibulum facilisis ornare risus egetaccumsan. Vestibulum porta, erat id lacinia fermentum,
+                    nulla nunc consequat ante, a feugiat seex vitae tellus. In non malesuada velit. Ut hendrerit
+                    facilisis elit, at pretium massa egestas in.Vivamus mattis ante sed rhoncus bibendum. Curabitur
+                    dictum sem neque, ac dignissim turpisvulputat eu. Quisque bibendum est ut facilisis consequat.
+                    Mauris auctor ligula sit amet erat aliquam, si.
+                </p>
 
-                </article>
+                <img class="col-lg-5 col-md-6 col-sm-12" src="images/cazuza.jpg" height="250px" width="100%">
 
-                <div class="col-lg-12 col-md-12 col-sm-12 row">
+            </article>
 
-                    <p class="col-lg-7 col-md-6 col-sm-12">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
-                        accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
-                        exvitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas in.
-                        Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
-                        vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, siteu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat aliquam, sit.</p>
-                    <img class="col-lg-5 col-md-6 col-sm-12" src="images/rubel.jpg" height="250px" width="100%">
+            <div class="col-lg-12 col-md-12 col-sm-12 row">
 
-                </div>
+                <p class="col-lg-7 col-md-6 col-sm-12">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis ornare risus eget
+                    accumsan. Vestibulum porta, erat id lacinia fermentum, nulla nunc consequat ante, a feugiat sem
+                    exvitae tellus. In non malesuada velit. Ut hendrerit facilisis elit, at pretium massa egestas
+                    in.
+                    Vivamus mattis ante sed rhoncus bibendum. Curabitur dictum sem neque, ac dignissim turpis
+                    vulputate eu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
+                    aliquam, siteu. Quisque bibendum est ut facilisis consequat. Mauris auctor ligula sit amet erat
+                    aliquam, sit.</p>
+                <img class="col-lg-5 col-md-6 col-sm-12" src="images/rubel.jpg" height="250px" width="100%">
+
+            </div>
 
 
         </div>
@@ -75,7 +83,8 @@
             <section class="col-lg-4 col-md-5 col-sm-12">
 
                 <img class="img-fluid maia" src="images/tim_maia.jpg" width="100%">
-                <img src="images/tim2.jpg" width="100%" height="600"class="img-fluid d-none d-md-block d-lg-none imgs" />
+                <img src="images/tim2.jpg" width="100%" height="600"
+                    class="img-fluid d-none d-md-block d-lg-none imgs" />
 
             </section>
 
@@ -96,20 +105,24 @@
 
 
             </section>
-
-            <section> <button> <a href="mpb-secondary.php">proxima pagina </a> </button></section>
+        </div>
+        <div class="row botao-vejamais">
+            <section class="col-12 col-md-12 col-sm-12 positionbutton">
+                <button type="button" class="btn btn-success"><a href="mpb-secondary.php">Veja mais</a></button>
+            </section>
 
         </div>
-        <?php
-            include 'includes/footer.php';
-    ?>
 
-        <!-- Bootstrap core JavaScript
-    ================================================== -->
-        <!-- Placed at the end of the document so the pages load faster -->
-        <script src="js/jquery-3.3.1.slim.min.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
+          <?php
+              include 'includes/footer.php';
+          ?>
+    </div>
+    <!-- Bootstrap core JavaScript
+       ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
 </body>
 

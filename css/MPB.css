@@ -1,3 +1,21 @@
+.btn-success {
+    text-align: center;
+    background-color: #FCFE38 !important;
+    border-color: #FCFE38 !important;
+
+}
+
+.botao-vejamais {
+    margin-bottom: 30px;
+}
+
+
+.positionbutton {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
 h1,
 h2,
 h3 {
@@ -25,18 +43,3 @@ p {
     margin-top: 10px;
 }
 
-.btn-success {
-    background-color: #9A1D2F !important;
-    border-color: #9A1D2F !important;
-
-}
-
-.botao-vejamais {
-    margin-bottom: 30px;
-}
-
-.positionbutton {
-    text-align: center;
-    margin-top: 60px;
-    margin-bottom: 30px;
-}
