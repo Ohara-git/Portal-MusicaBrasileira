@@ -32,14 +32,14 @@
             ?>
 
 
-          <div class="row">
-            <header class="col-12 col-md-12 col-sm-12">
+          <header class="row">
+            <div class="col-12 col-md-12 col-sm-12">
                 <img src="images/header.jpg" width="100%" height="300" />
-            </header>
-        </div>
+            </div>
+        </header>
       
           
-        <div class="row section-inicial">
+        <section class="row section-inicial">
             <div class="col-lg-6 col-md-6 col-sm-12">
                <img src="images/forro-topo.jpg" class="img-fluid musica-brasileira imgs-prima rounded" alt="">
             </div>  
@@ -47,7 +47,7 @@
             <h1>Forró</h1>
             <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
           </div>
-        </div>
+        </section>
         
 
         <section class="row section-variedades">
