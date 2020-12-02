@@ -23,29 +23,113 @@
 
     <body>
         <div class="container">
-           
-                <?php
+
+            <?php
                      include 'includes/nav.php';
                 ?>
 
 
-                <header class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12">
-                        <img src="images/header.jpg" width="100%" height="300" />
-                    </div>
-                </header>
+            <header class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <img src="images/header.jpg" alt="Banner da página, com artistas brasileiros" width="100%"
+                        height="300" />
+                </div>
+            </header>
 
 
-                <article class="row espacolinhas">
-                    <div class="col-lg-12 col-md-12 col-sm-12">
+            <article class="row espacolinhas">
+                <div class="col-lg-12 col-md-12 col-sm-12">
 
-                        <h1 class="titulo col-lg-12 col-md-12 col-sm-12">ROCK</h1>
+                    <h1 class="titulo col-lg-12 col-md-12 col-sm-12">ROCK</h1>
 
-                        <img src="images/rock-nacional.jpg" width="100%" class="imgrock offset-lg-1 col-lg-10 col-md-12 col-sm-12" />
-                        <p class="text col-lg-12 col-md-12 col-sm-12">
-                            Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor
-                            nec
-                            vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc
+                    <img src="images/rock-nacional.jpg" alt="Imagem com nomes de bandas de rock nacional" width="100%"
+                        class="imgrock offset-lg-1 col-lg-10 col-md-12 col-sm-12" />
+                    <p class="text col-lg-12 col-md-12 col-sm-12">
+                        Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales dolor
+                        nec
+                        vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc
+                        neque
+                        ante, luctus in hendrerit quis, venenatis varius nunc. Aliquam fermentum turpis in
+                        consectetur
+                        tincidunt. Aliquam aliquam urna quis tellus egestas ultrices. Phasellus a metus vel diam
+                        consequat
+                        imperdiet. Curabitur a finibus orci. Vivamus lacinia mi vel pellentesque condimentum.
+                        Pellentesque
+                        sed turpis pellentesque, vestibulum leo quis, egestas ex. Donec fermentum pellentesque
+                        pulvinar.
+                        Aenean sed mauris ac ante molestie sagittis. Vestibulum condimentum rutrum sapien vel
+                        condimentum.
+                        Nunc blandit auctor elementum. Maecenas viverra sodales elementum.
+                    </p>
+                </div>
+            </article>
+
+            <section class="row">
+
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <img src="images/rockinriomd.jpg" alt="Logo do Rock in Rio" width="100%" height="220"
+                        class="imgs " />
+                    <img src="images/rockinrio.jpg" alt="Imagem de um show do Rock in rio" width="100%" height="220"
+                        class="img-fluid d-none d-md-block d-lg-none imgs" />
+                </div>
+                <div class="col-lg-8 col-md-6 col-sm-12">
+                    <h1 class="col-lg-12 col-md-12 col-sm- titulo">Rock in Rio</h1>
+                    <p class="text"> Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam
+                        sodales dolor nec
+                        vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc
+                        neque
+                        ante, luctus in hendrerit quis, venenatis varius nunc. Aliquam fermentum turpis in
+                        consectetur
+                        tincidunt. Aliquam aliquam urna quis tellus egestas ultrices. Phasellus a metus vel diam
+                        consequat
+                        imperdiet. Curabitur a finibus orci. Vivamus lacinia mi vel pellentesque condimentum.
+                        Pellentesque
+                        sed turpis pellentesque, vestibulum leo quis.lacinia mi vel pellentesque condimentum.
+                        Pellentesque sed turpis pellentesque. </p>
+                </div>
+            </section>
+
+
+
+            <section class="row">
+                <h1 class=" titulo col-lg-12 col-md-12 col-sm-12">Rádios</h1>
+
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <img src="images/89fm.jpg" alt="Imagem do logo da 89 a radio rock de São Paulo" width="100%"
+                        class="img-fluid" />
+                    <p class="text"> Etiam tortor nunc, vestibulum vel tincidunt eget,
+                        pulvinar vitae metus. Etiam
+                        sodales dolor nec
+                        vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus.
+                        Nunc
+                        neque
+                        ante, luctus in hendrerit quis, venenatis varius nunc. Aliquam fermentum turpis in
+                        consectetur
+                        tincidunt. Aliquam aliquam urna quis tellus egestas ultrices. Phasellus a metus vel diam
+                        consequat
+                        imperdiet. Curabitur a finibus orci. Vivamus lacinia mi vel pellentesque condimentum.
+                        Pellentesque
+                        sed turpis pellentesque, vestibulum leo quis, egestas ex. Donec fermentum pellentesque
+                        pulvinar.
+                        Aenean sed mauris ac ante molestie sagittis. Vestibulum condimentum rutrum sapien vel
+                        condimentum Nunc blandit auctor elementum. Maecenas viverra sodales elementum, vestibulum
+                        condimentum rutrum sapien vel
+                        condimentum Nunc blandit auctor elementum. Maecenas viverra sodales elementum</p>
+                </div>
+
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="row">
+                        <img src="images/kiss-banner2.jpg" alt="Logo da radio Kiss FM" height="350"
+                            class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-md-block d-lg-none" />
+
+                        <img src="images/kiss-fm.jpg" alt="Logo da radio Kiss FM" width="100%"
+                            class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-lg-block d-sm-block d-md-none" />
+
+                        <p class="col-lg-12 col-md-6 col-sm-12 text"> Etiam tortor nunc, vestibulum vel tincidunt eget,
+                            pulvinar vitae metus. Etiam
+                            sodales dolor nec
+                            vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus.
+                            Nunc
                             neque
                             ante, luctus in hendrerit quis, venenatis varius nunc. Aliquam fermentum turpis in
                             consectetur
@@ -56,101 +140,27 @@
                             sed turpis pellentesque, vestibulum leo quis, egestas ex. Donec fermentum pellentesque
                             pulvinar.
                             Aenean sed mauris ac ante molestie sagittis. Vestibulum condimentum rutrum sapien vel
-                            condimentum.
-                            Nunc blandit auctor elementum. Maecenas viverra sodales elementum. 
+                            condimentum Nunc blandit auctor elementum. Maecenas viverra sodales elementum, vestibulum
+                            condimentum rutrum sapien vel
+                            condimentum Nunc blandit auctor elementum. Maecenas viverra sodales elementum
                         </p>
                     </div>
-                </article>
-
-                <section class="row">
-
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <img src="images/rockinriomd.jpg" width="100%" height="220" class="imgs " />
-                        <img src="images/rockinrio.jpg" width="100%" height="220" class="img-fluid d-none d-md-block d-lg-none imgs" />
-                    </div>
-                    <div class="col-lg-8 col-md-6 col-sm-12">
-                        <h1 class="col-lg-12 col-md-12 col-sm- titulo">Rock in Rio</h1>
-                        <p class="text"> Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam
-                            sodales dolor nec
-                            vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc
-                            neque
-                            ante, luctus in hendrerit quis, venenatis varius nunc. Aliquam fermentum turpis in
-                            consectetur
-                            tincidunt. Aliquam aliquam urna quis tellus egestas ultrices. Phasellus a metus vel diam
-                            consequat
-                            imperdiet. Curabitur a finibus orci. Vivamus lacinia mi vel pellentesque condimentum.
-                            Pellentesque
-                            sed turpis pellentesque, vestibulum leo quis.lacinia mi vel pellentesque condimentum. Pellentesque sed turpis pellentesque, </p>
-                    </div>
-                </section>
+                </div>
+            </section>
 
 
-
-                <section class="row">
-                    <h1 class=" titulo col-lg-12 col-md-12 col-sm-12">Rádios</h1>
-
-                    <div class="col-lg-6 col-md-12 col-sm-12">
-                        <img src="images/89fm.jpg" width="100%" class="img-fluid" />
-                        <p class="text" > oi Etiam tortor nunc, vestibulum vel tincidunt eget, pulvinar vitae metus. Etiam sodales
-                            dolor
-                            nec
-                            vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus. Nunc
-                            neque
-                            ante, luctus in hendrerit quis, venenatis varius nunc. Aliquam fermentum turpis in
-                            consectetur
-                            tincidunt. Aliquam aliquam urna quis tellus egest454as ultrices. Phasellus a metus vel diam
-                            consequat
-                            imperdiet. Curabitur a finibus orci. Vivamus lacinia mi vel pellentesque condimentum.
-                            Pellentesque
-                            sed turpis pellentesque, vestibulum leo quis, egestas ex. Donec fermentum pellentesque
-                            pulvinar.
-                            Aenean sed mauris ac ante molestie sagittis. Vestibulum condimentum rutrum sapien vel
-                            condimentum.
-                            Nunc blandit auctor elementum. Maecenas viverra sodales elementum.</p>
-                    </div>
-
-                    <div class="col-lg-6 col-md-12 col-sm-12">
-                        <div class="row">
-                            <img src="images/kiss-banner2.jpg" height="350"
-                                class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-md-block d-lg-none" />
-                                
-                            <img src="images/kiss-fm.jpg" width="100%" 
-                                class="col-lg-12 col-md-6 col-sm-12 img-fluid d-none d-lg-block d-sm-block d-md-none" />
-
-                            <p class="col-lg-12 col-md-6 col-sm-12 text"> Etiam tortor nunc, vestibulum vel tincidunt eget,
-                                pulvinar vitae metus. Etiam
-                                sodales dolor nec
-                                vestibulum consequat. Praesent in metus congue, elementum velit sed, consequat purus.
-                                Nunc
-                                neque
-                                ante, luctus in hendrerit quis, venenatis varius nunc. Aliquam fermentum turpis in
-                                consectetur
-                                tincidunt. Aliquam aliquam urna quis tellus egestas ultrices. Phasellus a metus vel diam
-                                consequat
-                                imperdiet. Curabitur a finibus orci. Vivamus lacinia mi vel pellentesque condimentum.
-                                Pellentesque
-                                sed turpis pellentesque, vestibulum leo quis, egestas ex. Donec fermentum pellentesque
-                                pulvinar.
-                                Aenean sed mauris ac ante molestie sagittis. Vestibulum condimentum rutrum sapien vel
-                                condimentum Nunc blandit auctor elementum. Maecenas viverra sodales elementum.
-                            </p>
-                        </div>
-                    </div>
-                </section>
+            <section class="row botao-vejamais">
+                <div class="col-12 col-md-12 col-sm-12 positionbutton">
+                    <button type="button" class="btn btn-success"><a href="rock-secondary.php">Veja
+                            mais</a></button>
+                </div>
+            </section>
 
 
-                <section class="row botao-vejamais">
-                    <div class="col-12 col-md-12 col-sm-12 positionbutton">
-                        <button type="button" class="btn btn-success"><a href="rock-secondary.php">Veja
-                                mais</a></button>
-                    </div>
-                </section>
-
-
-                <?php
+            <?php
                 include 'includes/footer.php';
                 ?>
-            
+
         </div>
 
 
