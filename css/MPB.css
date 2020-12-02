@@ -1,11 +1,10 @@
-
 h1,
 h2,
 h3 {
     font-family: 'Fjalla One', sans-serif;
     color: #FCFE38;
     font-weight: bold;
-    
+
 }
 
 h1,
@@ -16,14 +15,16 @@ h2 {
     background-color: #9C38FF;
     text-align: center;
 }
-p{
+
+p {
     font-size: 1.2em;
     font-family: "bree serif", serif;
 }
 
-.rubel{
+.rubel {
     margin-top: 10px;
 }
+
 .btn-success {
     background-color: #9A1D2F !important;
     border-color: #9A1D2F !important;
