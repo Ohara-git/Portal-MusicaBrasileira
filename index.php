@@ -35,13 +35,13 @@
             ?>
 
 
-          <heade class="row">
+          <header class="row">
             <div class="col-12 col-md-12 col-sm-12">
                 <img src="images/header.jpg" width="100%" height="300"/>
             </div>
-          </heade>
+          </header>
       
-              <div class="row topo-home">
+              <section class="row topo-home">
                 <div class="col-12">
                   <h1>Música Brasileira</h1>
                   <div class="col-10 offset-1">
@@ -49,7 +49,7 @@
                     <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae modi ullam quaerat rerum voluptatem. Rem repellat quaerat nostrum debitis, excepturi, earum temporibus suscipit nemo minus dicta officiis commodi, libero itaque!</P>
                   </div>  
                 </div>
-              </div>
+              </section>
               
 
               <!-- secão com as 5 chamadas paras as páginas -->
